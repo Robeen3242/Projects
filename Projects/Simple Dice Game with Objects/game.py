@@ -13,7 +13,6 @@ class Game:
         self.PLAYERS = []
         self.TOP_SCORE = [0, "No one"]
         self.TEAMS = False
-            
 
 
     def run(self):
