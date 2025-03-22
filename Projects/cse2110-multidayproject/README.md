@@ -1,3 +1,3 @@
-# CSE2110-MultiDayProject
+# Physics online quiz automater
 
 Canon opperator.
