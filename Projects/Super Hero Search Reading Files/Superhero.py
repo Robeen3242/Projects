@@ -52,6 +52,7 @@ def addID():
     for i in range(len(headers)):
         INFO.append(input(f"{headers[i]}: ")) #Prompts the user to register information for the specific header collumn
     USED_ID = checkValidID(INFO[0], IDS)
+    
     if USED_ID == True: #No two ID's can exist at once
         print("This ID already exists")
     else:
