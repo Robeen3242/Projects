@@ -1,0 +1,14 @@
+Contribution;8.9;100
+Come Out and Code;5.0;50
+Alert Android;2.3;25
+Bridges;8.9;150
+Further;8.9;125
+Over the Bridge;5.0;25
+Only Snow;5.0;75
+2023;8.5;100
+Nobody's Coder;9.3;100
+Only Snow;5.0;75
+2023;8.5;100
+Nobody's Coder;9.3;100
+Only Snow;5.0;75
+Only Snow;75

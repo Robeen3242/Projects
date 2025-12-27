@@ -1,0 +1,710 @@
+Superhero ID,name,ID,ALIGN,EYE,HAIR,ALIVE,APPEARANCES,FIRST APPEARANCE,YEAR,Brand
+D145,John Constantine,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,371,1984, June,1984,DC
+M321,Bullseye (Lester),Secret Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,277,Mar-76,1976,Marvel
+D291,Margaret Sawyer,Public Identity,,Blue Eyes,,Living Characters,180,1987, April,1987,DC
+D090,Khaji Da,Secret Identity,Good Characters,,,Living Characters,121,1964, June,1964,DC
+M214,Julio Richter,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,231,Jun-87,1987,Marvel
+M360,Galactus,Secret Identity,Neutral Characters,Brown Eyes,No Hair,Living Characters,390,Mar-66,1966,Marvel
+M379,Kallark,Public Identity,Neutral Characters,Blue Eyes,Blue Hair,Living Characters,160,Oct-77,1977,Marvel
+M350,Max Eisenhardt,Public Identity,Neutral Characters,Grey Eyes,Bald,Living Characters,709,Sep-63,1963,Marvel
+M404,Hedy Wolfe,No Dual Identity,,Hazel Eyes,Black Hair,Living Characters,132,Nov-44,1944,Marvel
+D060,Alanna Strange,Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,141,1958, December,1958,DC
+M022,Anthony Druid,Public Identity,Good Characters,Green Eyes,Black Hair,Deceased Characters,153,Jun-61,1961,Marvel
+D056,Lester Davis,Public Identity,Good Characters,,Black Hair,Living Characters,142,1957, February,1957,DC
+M257,Danger,No Dual Identity,Good Characters,,No Hair,Living Characters,103,5-Mar,2005,Marvel
+D288,Kimiyo Hoshi,Secret Identity,,Black Eyes,Black Hair,Living Characters,189,1985, July,1985,DC
+M036,Matthew Hawk,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,195,Nov-62,1962,Marvel
+D201,Zauriel,Public Identity,Good Characters,Red Eyes,White Hair,Living Characters,108,1997, June,1997,DC
+M289,Mandarin,Secret Identity,Bad Characters,Blue Eyes,Black Hair,Deceased Characters,190,Feb-64,1964,Marvel
+M323,Henry Gyrich,No Dual Identity,Bad Characters,Green Eyes,Red Hair,Living Characters,170,Nov-77,1977,Marvel
+D005,Lee Travis,Secret Identity,Good Characters,Black Eyes,Black Hair,Deceased Characters,139,1938, October,1938,DC
+D017,Jonathan L. Thunder,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,282,1940, January,1940,DC
+D213,Jonathan Crane,Public Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,222,1941, September,1941,DC
+D114,Dubbilex,Public Identity,Good Characters,Green Eyes,,Living Characters,123,1971, March,1971,DC
+M173,Arcturus Rann,Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,115,Jan-79,1979,Marvel
+M337,Cletus Kasady,Public Identity,Bad Characters,Green Eyes,No Hair,Living Characters,129,Feb-91,1991,Marvel
+M358,Cain Marko,Public Identity,Neutral Characters,Blue Eyes,Red Hair,Living Characters,329,Jul-65,1965,Marvel
+M144,Richard Rider,Public Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,373,Sep-76,1976,Marvel
+D180,Jack Drake,,Good Characters,Black Eyes,Brown Hair,Deceased Characters,102,1989, August,1989,DC
+D137,Lyla Michaels,Public Identity,Good Characters,Green Eyes,Blond Hair,Deceased Characters,105,1982, July,1982,DC
+D030,Sylvester Pemberton,Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,229,1941, October,1941,DC
+D050,Adam Blake,Public Identity,Good Characters,Hazel Eyes,Brown Hair,Living Characters,191,1951, June,1951,DC
+D286,Oberon,Public Identity,,Blue Eyes,White Hair,Living Characters,167,1971, April,1971,DC
+M397,David Lieberman,Secret Identity,Neutral Characters,Green Eyes,Brown Hair,Deceased Characters,163,Nov-87,1987,Marvel
+D151,Superman (Clark Kent),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,2496,1986, October,1986,DC
+M064,Simon Williams,Public Identity,Good Characters,Red Eyes,Grey Hair,Living Characters,686,Oct-64,1964,Marvel
+D221,Jean Loring,Public Identity,Bad Characters,Green Eyes,Black Hair,Deceased Characters,168,1961, October,1961,DC
+M180,Isaac Christians,Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,127,Apr-81,1981,Marvel
+D249,Sapphire Stagg,,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,104,1965, January,1965,DC
+M140,Moira Kinross,No Dual Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,259,Dec-75,1975,Marvel
+M050,Virginia Potts,No Dual Identity,Good Characters,Green Eyes,Red Hair,Living Characters,274,Sep-63,1963,Marvel
+D038,Andre Chavard,Public Identity,Good Characters,,Brown Hair,Living Characters,164,1942, June,1942,DC
+D007,Batman (Bruce Wayne),Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,3093,1939, May,1939,DC
+D154,Kilowog,Public Identity,Good Characters,Red Eyes,,Living Characters,299,1986, June,1986,DC
+M170,Narya,Secret Identity,Good Characters,White Eyes,Blond Hair,Living Characters,138,Apr-79,1979,Marvel
+D001,Samuel Bradley,Public Identity,Good Characters,Grey Eyes,Grey Hair,Living Characters,213,1937, March,1937,DC
+D266,Uncle Sam,Secret Identity,,Blue Eyes,White Hair,Living Characters,162,1940, July,1940,DC
+M133,Ororo Munroe,Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,1512,May-75,1975,Marvel
+M385,Tony Masters,Secret Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,163,May-80,1980,Marvel
+M160,James Hudson,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,161,Feb-78,1978,Marvel
+D178,Strata,Public Identity,Good Characters,White Eyes,,Living Characters,115,1989, February,1989,DC
+M090,Dragon Man,No Dual Identity,Good Characters,Grey Eyes,No Hair,Living Characters,139,Feb-65,1965,Marvel
+M043,Warren Worthington III,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1230,Sep-63,1963,Marvel
+M303,Georges Batroc,No Dual Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,119,Mar-66,1966,Marvel
+D251,Eve Eden,Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,154,1966, September,1966,DC
+M357,Karnilla,Secret Identity,Neutral Characters,Purple Eyes,Black Hair,Living Characters,127,Aug-64,1964,Marvel
+M271,The Wizard,Public Identity,Bad Characters,Hazel Eyes,Brown Hair,Living Characters,189,Nov-62,1962,Marvel
+D128,Lucius Fox,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,133,1979, January,1979,DC
+D013,Kent Nelson,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,422,1940, May,1940,DC
+D233,Emil Hamilton,Public Identity,Bad Characters,Hazel Eyes,Grey Hair,Living Characters,126,1987, January,1987,DC
+M329,Jason Macendale Jr.,Secret Identity,Bad Characters,Brown Eyes,Black Hair,Deceased Characters,107,Feb-81,1981,Marvel
+M048,Uatu,Public Identity,Good Characters,Blue Eyes,Bald,Deceased Characters,373,Apr-63,1963,Marvel
+M049,Wong,No Dual Identity,Good Characters,Brown Eyes,Bald,Living Characters,306,Jul-63,1963,Marvel
+M153,Jessica Drew,Secret Identity,Good Characters,Green Eyes,Auburn Hair,Living Characters,471,Feb-77,1977,Marvel
+D188,Ganthet,Public Identity,Good Characters,Green Eyes,White Hair,Living Characters,132,1992,1992,DC
+M166,Jeanne-Marie Beaubier,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,203,Apr-79,1979,Marvel
+M025,Hulk (Robert Bruce Banner),Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,2017,May-62,1962,Marvel
+D208,Grace Choi,Secret Identity,Good Characters,Brown Eyes,Red Hair,Living Characters,100,2003, August,2003,DC
+M206,Angelica Jones,Known to Authorities Identity,Good Characters,Green Eyes,Red Hair,Living Characters,319,May-85,1985,Marvel
+D094,June Moone,Secret Identity,Good Characters,Green Eyes,Black Hair,Living Characters,110,1966, April,1966,DC
+D264,Aztar,Secret Identity,,White Eyes,,Living Characters,436,1940, February,1940,DC
+M161,James Rhodes,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,525,Jan-79,1979,Marvel
+D227,DeSaad,Public Identity,Bad Characters,Black Eyes,Black Hair,Living Characters,158,1971, May,1971,DC
+M225,Neena Thurman,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,310,Mar-92,1992,Marvel
+D044,Thomas Haukins,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,181,1947, June,1947,DC
+M034,Jane Foster,No Dual Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,211,Sep-62,1962,Marvel
+M320,Henry Camp,Public Identity,Bad Characters,Brown Eyes,Black Hair,Deceased Characters,119,Nov-74,1974,Marvel
+D055,Cecil Wilson,,Good Characters,,Red Hair,Living Characters,104,1956, May,1956,DC
+D140,Albert Rothstein,Secret Identity,Good Characters,Blue Eyes,,Living Characters,245,1983, September,1983,DC
+M310,Dirk Garthwaite,Secret Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,164,Jan-68,1968,Marvel
+D142,Todd Rice,Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,208,1983, September,1983,DC
+D108,John Stewart,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,549,1971, December,1971,DC
+D285,Rex Mason,Secret Identity,,Black Eyes,,Living Characters,470,1965, January,1965,DC
+D146,Daniel Cassidy,Secret Identity,Good Characters,Yellow Eyes,,Living Characters,176,1984, June,1984,DC
+D218,Gorilla Grodd,Public Identity,Bad Characters,Grey Eyes,Black Hair,Living Characters,179,1959, May,1959,DC
+M224,Christopher Powell,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,165,Mar-91,1991,Marvel
+M374,Illyana Rasputina,Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,380,May-75,1975,Marvel
+M154,X-51,Known to Authorities Identity,Good Characters,Red Eyes,Black Hair,Living Characters,146,Jul-77,1977,Marvel
+M052,Jessica Jones,No Dual Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,195,Sep-63,1963,Marvel
+M318,Eliot Franklin (Thunderball),Public Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,146,Nov-74,1974,Marvel
+D130,Rachel Roth,Secret Identity,Good Characters,Purple Eyes,Black Hair,Living Characters,399,1980, October,1980,DC
+D189,Kon-El,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,560,1993, June,1993,DC
+M115,Leonard Samson,Public Identity,Good Characters,Brown Eyes,Green Hair,Deceased Characters,260,Jul-71,1971,Marvel
+D116,Jonah Hex,Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,291,1972, March,1972,DC
+D097,Nuidis Vulko,Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,140,1967, September,1967,DC
+D126,Martin Stein,Secret Identity,Good Characters,Brown Eyes,Grey Hair,Deceased Characters,138,1978, March,1978,DC
+M365,Valentina Allegra de Fontaine,Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,176,Aug-67,1967,Marvel
+D092,Bernhard Baker,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,229,1965, September,1965,DC
+D122,Rory Regan,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,131,1976, September,1976,DC
+D088,Sargent Steel,Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,130,1964, December,1964,DC
+M219,Jubilation Lee,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,408,May-89,1989,Marvel
+M328,Morris Bench,Public Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,110,Jan-81,1981,Marvel
+D018,Shiera Sanders,Secret Identity,Good Characters,Brown Eyes,Red Hair,Living Characters,219,1940, January,1940,DC
+D102,Henry Hall,Secret Identity,Good Characters,Red Eyes,Brown Hair,Living Characters,175,1968, June,1968,DC
+M148,Jacqueline Falsworth,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,127,Jul-76,1976,Marvel
+M259,Amadeus Cho,No Dual Identity,Good Characters,Black Eyes,Black Hair,Living Characters,103,6-Jan,2006,Marvel
+D047,William Polk,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,106,1948, February,1948,DC
+D012,Carter Hall,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,803,1940, January,1940,DC
+M141,Pip Gofern,Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,163,Apr-75,1975,Marvel
+D089,Katma Tui,Public Identity,Good Characters,,Black Hair,Deceased Characters,129,1964, July,1964,DC
+D078,Lead,Secret Identity,Good Characters,Photocellular Eyes,,Living Characters,161,1962, April,1962,DC
+D037,Robert Crane,Secret Identity,Good Characters,Red Eyes,,Living Characters,171,1942, April,1942,DC
+D036,Wolfgang Winks,Public Identity,Good Characters,,Black Hair,Living Characters,206,1942, November,1942,DC
+M242,Cessily Kincaid,Secret Identity,Good Characters,Silver Eyes,Red Hair,Living Characters,143,3-Aug,2003,Marvel
+D062,Franklin Rock,Public Identity,Good Characters,Blue Eyes,,Living Characters,492,1959, April,1959,DC
+M250,Hisako Ichiki,Secret Identity,Good Characters,Black Eyes,Black Hair,Living Characters,147,4-Oct,2004,Marvel
+M366,Ronan,No Dual Identity,Neutral Characters,Blue Eyes,Brown Hair,Living Characters,136,Aug-67,1967,Marvel
+M092,Norrin Radd,Public Identity,Good Characters,Blue Eyes,Bald,Living Characters,696,Mar-66,1966,Marvel
+M349,Nicholas Fury,No Dual Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,1137,May-63,1963,Marvel
+M112,Shiro Yoshida,Public Identity,Good Characters,Black Eyes,Black Hair,Living Characters,158,Jan-70,1970,Marvel
+D224,Eclipso,Secret Identity,Bad Characters,Red Eyes,Black Hair,Living Characters,131,1963, July,1963,DC
+D280,George Harkness,Secret Identity,,Brown Eyes,Brown Hair,Living Characters,224,1960, December,1960,DC
+D139,Tatsu Yamashiro,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,252,1983, July,1983,DC
+D281,Lucas Carr,Public Identity,,Blue Eyes,Brown Hair,Living Characters,161,1960, March,1960,DC
+D143,Gabrielle Doe,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,175,1983, July,1983,DC
+M139,Peter Parker (Ben Reilly),Secret Identity,Good Characters,Hazel Eyes,Blond Hair,Deceased Characters,263,Oct-75,1975,Marvel
+D216,Cyrus Gold,Secret Identity,Bad Characters,Black Eyes,White Hair,Deceased Characters,174,1944, October,1944,DC
+D167,Martha Kane,Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,113,1987, February,1987,DC
+D252,Robert Langstrom,Secret Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,130,1970, June,1970,DC
+M146,Lilandra Neramani,No Dual Identity,Good Characters,Orange Eyes,Black Hair,Deceased Characters,170,Feb-76,1976,Marvel
+M101,Vision,Secret Identity,Good Characters,Gold Eyes,No Hair,Living Characters,1007,Oct-68,1968,Marvel
+D112,James Harper Clone,Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,176,1971, January,1971,DC
+D248,Thomas Blake,Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,108,1963, January,1963,DC
+M408,Redwing,Public Identity,,Yellow Eyes,,Living Characters,165,Sep-69,1969,Marvel
+D121,Kara Zor-L (Earth-Two),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,635,1976, February,1976,DC
+M217,Marlo Chandler,Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,131,Sep-88,1988,Marvel
+M354,Mortimer Toynbee,Secret Identity,Neutral Characters,Black Eyes,Brown Hair,Living Characters,210,Mar-64,1964,Marvel
+M188,Eugene Judd,Public Identity,Good Characters,Brown Eyes,Bald,Living Characters,245,Aug-83,1983,Marvel
+M215,Robert Baldwin,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,293,Sep-88,1988,Marvel
+D019,James Corrigan,Secret Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,214,1940, February,1940,DC
+D194,Artemis of Bana-Mighdall,Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,141,1994, September,1994,DC
+D228,Granny Goodness,Public Identity,Bad Characters,Blue Eyes,White Hair,Deceased Characters,115,1971, June,1971,DC
+M074,Hercules,No Dual Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,725,Oct-65,1965,Marvel
+M334,Lonnie Lincoln,Public Identity,Bad Characters,Pink Eyes,White Hair,Living Characters,113,Mar-88,1988,Marvel
+D033,Tubby Watts,,Good Characters,,Red Hair,Living Characters,137,1941, September,1941,DC
+D277,Adam Strange,Public Identity,,Blue Eyes,Blond Hair,Living Characters,177,1958, December,1958,DC
+M121,Namorita Prentiss,Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,257,Jun-72,1972,Marvel
+M060,Matthew Murdock,Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,1338,Apr-64,1964,Marvel
+M230,Angelo Espinosa,Secret Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,108,Oct-94,1994,Marvel
+M394,Rita Wayword,Secret Identity,Neutral Characters,White Eyes,Silver Hair,Living Characters,108,Sep-85,1985,Marvel
+D245,Carol Ferris,Public Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,319,1959, October,1959,DC
+M278,Chen Lu,Secret Identity,Bad Characters,Brown Eyes,Bald,Living Characters,144,Jun-63,1963,Marvel
+M194,Elizabeth Twoyoungmen,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,103,Dec-83,1983,Marvel
+M309,Ultron,No Dual Identity,Bad Characters,Red Eyes,No Hair,Deceased Characters,181,Jul-68,1968,Marvel
+D027,Theodore Knight,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,356,1941, April,1941,DC
+M127,Eric Brooks,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,194,Jul-73,1973,Marvel
+M145,Sersi,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,236,Sep-76,1976,Marvel
+M236,Doop,No Dual Identity,Good Characters,Variable Eyes,Black Hair,Living Characters,113,1-Jul,2001,Marvel
+D075,Mercury,Secret Identity,Good Characters,Photocellular Eyes,,Living Characters,165,1962, April,1962,DC
+M013,Clay Harder,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,106,Mar-48,1948,Marvel
+M035,Benjamin Parker,No Dual Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,205,Aug-62,1962,Marvel
+M288,Frederick Dukes,Public Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,194,Jan-64,1964,Marvel
+M247,Chase Stein,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,100,3-Jul,2003,Marvel
+M125,Shang-Chi,No Dual Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,296,Dec-73,1973,Marvel
+M226,Genis-Vell,Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,147,Oct-93,1993,Marvel
+D243,Floyd Lawton,Secret Identity,Neutral Characters,Blue Eyes,Brown Hair,Living Characters,227,1950, June,1950,DC
+D069,Raymond Palmer,Public Identity,Good Characters,Brown Eyes,,Living Characters,706,1961, October,1961,DC
+D193,Grant Emerson,Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,166,1994, April,1994,DC
+M107,George Stacy,Public Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,118,Jan-68,1968,Marvel
+M186,Tandy Bowen,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,222,Mar-82,1982,Marvel
+D215,Adolf Hitler,Public Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,101,1942, March,1942,DC
+M174,Katherine Pryde,Secret Identity,Good Characters,Hazel Eyes,Brown Hair,Living Characters,886,Jan-80,1980,Marvel
+M380,Frank Payne,Secret Identity,Neutral Characters,,Bald,Living Characters,134,Jun-77,1977,Marvel
+D029,Jonathan Chambers,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,239,1941, September,1941,DC
+M393,Guido Carosella,Secret Identity,Neutral Characters,Brown Eyes,Bald,Living Characters,236,Jul-85,1985,Marvel
+D211,Jaime Reyes,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,164,2006, February,2006,DC
+D004,John Zatara,Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,256,1938, June,1938,DC
+D191,Kyle Rayner,Secret Identity,Good Characters,Green Eyes,Black Hair,Living Characters,716,1994, January,1994,DC
+M068,Abner Jenkins,Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,284,Aug-64,1964,Marvel
+M338,Parker Robbins,Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,121,2-Jul,2002,Marvel
+D279,Ralph Dibny,Public Identity,,Blue Eyes,Red Hair,Deceased Characters,558,1960, May,1960,DC
+D067,Garth,Public Identity,Good Characters,Purple Eyes,Black Hair,Deceased Characters,487,1960, February,1960,DC
+D003,Lois Lane,Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,934,1938, June,1938,DC
+D161,Nathaniel Adam,Secret Identity,Good Characters,Blue Eyes,White Hair,Living Characters,386,1987, March,1987,DC
+D020,Yz,Secret Identity,Good Characters,Red Eyes,,Living Characters,207,1940, January,1940,DC
+D238,Roy Harper,Secret Identity,Neutral Characters,Green Eyes,Red Hair,Living Characters,654,1941, November,1941,DC
+M098,Adam Warlock,No Dual Identity,Good Characters,White Eyes,Gold Hair,Living Characters,252,Sep-67,1967,Marvel
+M258,Dorrek VIII,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,103,5-Apr,2005,Marvel
+M406,Chili Storm,Public Identity,,Green Eyes,Red Hair,Living Characters,284,Oct-48,1948,Marvel
+M172,Mari,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,118,Jan-79,1979,Marvel
+D073,Charles Taine (Pre-Zero Hour),Secret Identity,Good Characters,Black Eyes,Black Hair,Living Characters,158,1961, May,1961,DC
+M245,Nico Minoru,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,105,3-Jul,2003,Marvel
+D195,Jack Knight,Public Identity,Good Characters,Black Eyes,Black Hair,Living Characters,122,1994, September,1994,DC
+M223,Miguel Santos,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,111,Oct-90,1990,Marvel
+D200,Antonia Monetti,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,122,1996, October,1996,DC
+M096,Joseph Robertson,No Dual Identity,Good Characters,Brown Eyes,White Hair,Living Characters,752,Aug-67,1967,Marvel
+M368,Annihilus,No Dual Identity,Neutral Characters,Green Eyes,No Hair,Living Characters,125,Nov-68,1968,Marvel
+M175,Jennifer Walters,Public Identity,Good Characters,Green Eyes,Brown Hair,Living Characters,881,Feb-80,1980,Marvel
+M198,Julia Carpenter,Secret Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Living Characters,212,Oct-84,1984,Marvel
+D083,Rita Farr,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,166,1963, June,1963,DC
+M069,Clea,No Dual Identity,Good Characters,Blue Eyes,White Hair,Living Characters,247,Nov-64,1964,Marvel
+M311,Giuletta Nefaria,Secret Identity,Bad Characters,Grey Eyes,Black Hair,Living Characters,149,Jan-68,1968,Marvel
+M356,Glenn Talbot,No Dual Identity,Neutral Characters,Blue Eyes,Brown Hair,Deceased Characters,151,Nov-64,1964,Marvel
+M193,Beta Ray Bill,No Dual Identity,Good Characters,White Eyes,No Hair,Living Characters,153,Nov-83,1983,Marvel
+D082,Niles Caulder,Public Identity,Good Characters,Blue Eyes,Grey Hair,Living Characters,214,1963, June,1963,DC
+M045,Jean Grey,Public Identity,Good Characters,Green Eyes,Red Hair,Deceased Characters,1107,Sep-63,1963,Marvel
+M105,Aragorn,No Dual Identity,Good Characters,Brown Eyes,White Hair,Living Characters,128,Jan-68,1968,Marvel
+M308,Mephisto,No Dual Identity,Bad Characters,White Eyes,Black Hair,Living Characters,316,Dec-68,1968,Marvel
+M181,Samuel Guthrie,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,657,Nov-82,1982,Marvel
+M124,Heather Douglas,Secret Identity,Good Characters,Blue Eyes,Bald,Living Characters,323,Jan-73,1973,Marvel
+M014,Thor (Thor Odinson),No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,2258,Nov-50,1950,Marvel
+M244,David Alleyne,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,113,3-Oct,2003,Marvel
+M283,Norman Osborn,Public Identity,Bad Characters,Blue Eyes,Auburn Hair,Living Characters,692,Jul-64,1964,Marvel
+M331,Mary MacPherran,Secret Identity,Bad Characters,Blue Eyes,Strawberry Blond Hair,Living Characters,108,Jul-84,1984,Marvel
+D214,Harvey Dent,Public Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,306,1942, August,1942,DC
+M402,Charlie Cluster-7,Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,112,2-Aug,2002,Marvel
+M002,Thomas Halloway,Public Identity,Good Characters,Brown Eyes,White Hair,Living Characters,135,Oct-39,1939,Marvel
+M286,Maxwell Dillon,Public Identity,Bad Characters,Blue Eyes,Auburn Hair,Living Characters,225,Feb-64,1964,Marvel
+D240,Aphrodite,Public Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,104,1941, December,1941,DC
+M273,Phillip Masters,Public Identity,Bad Characters,Brown Eyes,Bald,Deceased Characters,102,Nov-62,1962,Marvel
+M351,Otto Octavius,Secret Identity,Neutral Characters,Hazel Eyes,Brown Hair,Deceased Characters,526,Jul-63,1963,Marvel
+M373,Frank Castle,Public Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,878,Feb-74,1974,Marvel
+M015,Jack Monroe,Public Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,141,Dec-53,1953,Marvel
+M138,James Madrox,Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,271,Feb-75,1975,Marvel
+M040,Stephen Strange,Public Identity,Good Characters,Grey Eyes,Black Hair,Living Characters,1307,Jul-63,1963,Marvel
+M047,Timothy Dugan,Public Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,517,May-63,1963,Marvel
+M072,Percival Pinkerton,Public Identity,Good Characters,Brown Eyes,Grey Hair,Deceased Characters,130,Jul-64,1964,Marvel
+M080,Fandral,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,375,Aug-65,1965,Marvel
+M083,Gorgon,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,272,Nov-65,1965,Marvel
+M182,Roberto da Costa,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,464,Nov-82,1982,Marvel
+D042,Donald Richards,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,109,1942, March,1942,DC
+M314,Karl Lykos,Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,107,Aug-69,1969,Marvel
+M344,Zeus Panhellenios,No Dual Identity,Neutral Characters,Blue Eyes,Red Hair,Living Characters,124,Jun-49,1949,Marvel
+D118,Abigail Arcane,Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,182,1973, January,1973,DC
+D229,Waylon Jones,Public Identity,Bad Characters,Red Eyes,,Living Characters,180,1983, March,1983,DC
+M165,Scott Lang,Public Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Living Characters,209,Mar-79,1979,Marvel
+D100,Red Tornado,Secret Identity,Good Characters,Green Eyes,,Living Characters,374,1968, August,1968,DC
+D077,Iron,Secret Identity,Good Characters,Photocellular Eyes,,Living Characters,161,1962, April,1962,DC
+M076,Harold Osborn,No Dual Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,474,Dec-65,1965,Marvel
+M348,John Jonah Jameson,No Dual Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,1266,Mar-63,1963,Marvel
+M065,Edwin Jarvis,No Dual Identity,Good Characters,Blue Eyes,White Hair,Living Characters,567,Nov-64,1964,Marvel
+M361,Herbert Wyndham,Secret Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,179,Nov-66,1966,Marvel
+M164,Melissa Gold,Secret Identity,Good Characters,Green Eyes,Blond Hair,Living Characters,260,Aug-79,1979,Marvel
+D157,Amanda Waller,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,222,1986, November,1986,DC
+M305,Herman Schultz,Public Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,145,Mar-67,1967,Marvel
+D192,Connor Hawke,Secret Identity,Good Characters,Green Eyes,Blond Hair,Living Characters,174,1994, October,1994,DC
+M020,Jonathan Storm,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1934,Nov-61,1961,Marvel
+D181,Tara Markov (Team Titans),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,110,1991,1991,DC
+M132,Colleen Wing,Public Identity,Good Characters,Blue Eyes,Auburn Hair,Living Characters,175,Nov-74,1974,Marvel
+D196,Mary Batson,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,168,1995, April,1995,DC
+D207,Mia Dearden,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,109,2001, May,2001,DC
+M235,Phoebe Cuckoo,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,174,1-Nov,2001,Marvel
+M201,Douglas Ramsey,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,181,Mar-84,1984,Marvel
+M246,Joshua Foley,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,101,3-Nov,2003,Marvel
+M073,Mary Jane Watson,No Dual Identity,Good Characters,Green Eyes,Red Hair,Living Characters,1304,Jun-65,1965,Marvel
+M276,Peter Petruski,Secret Identity,Bad Characters,Brown Eyes,Bald,Living Characters,150,Jan-63,1963,Marvel
+D016,Rex Tyler,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,288,1940, March,1940,DC
+M026,Henry Pym,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1237,Jan-62,1962,Marvel
+D187,Rose Wilson,Secret Identity,Good Characters,Blue Eyes,White Hair,Living Characters,158,1992, October,1992,DC
+D270,Daniel Turpin,Public Identity,,Brown Eyes,Brown Hair,Deceased Characters,261,1942, June,1942,DC
+D206,Crispus Allen,Secret Identity,Good Characters,Brown Eyes,,Deceased Characters,116,2000, March,2000,DC
+M106,Randolph Robertson,No Dual Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,124,Dec-68,1968,Marvel
+M147,Marlene Alraune,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,156,Jun-76,1976,Marvel
+D239,Zeus,Public Identity,Neutral Characters,Blue Eyes,White Hair,Living Characters,115,1941, December,1941,DC
+M384,Sebastian Shaw,No Dual Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,174,Jan-80,1980,Marvel
+M041,Robert Drake,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,1265,Sep-63,1963,Marvel
+M248,Laura Kinney,Secret Identity,Good Characters,Green Eyes,Black Hair,Living Characters,265,4-Feb,2004,Marvel
+D080,Gold,Secret Identity,Good Characters,Photocellular Eyes,,Living Characters,147,1962, April,1962,DC
+D131,Thomas Tresser,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,106,1980, September,1980,DC
+M037,Donald Blake,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,170,Aug-62,1962,Marvel
+D205,Cassandra Cain,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,235,1999, July,1999,DC
+M031,Balder Odinson,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,403,Oct-62,1962,Marvel
+M275,Calvin Zabo,Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,157,Dec-63,1963,Marvel
+D084,Bruce Gordon,Public Identity,Good Characters,,Brown Hair,Living Characters,105,1963, July,1963,DC
+M046,Elizabeth Brant,No Dual Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,599,Sep-63,1963,Marvel
+D153,Michael Jon Carter,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,427,1986, February,1986,DC
+M169,Bug,Public Identity,Good Characters,Yellow Eyes,Green Hair,Living Characters,151,Jan-79,1979,Marvel
+M260,Hope Summers,Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,200,8-Jan,2008,Marvel
+M100,Walter Newell,Public Identity,Good Characters,Hazel Eyes,Brown Hair,Living Characters,121,Sep-67,1967,Marvel
+M333,Nathaniel Essex,Secret Identity,Bad Characters,Red Eyes,Black Hair,Living Characters,155,Sep-87,1987,Marvel
+D086,Vril Dox II,Public Identity,Good Characters,Green Eyes,Blond Hair,Living Characters,163,1964, February,1964,DC
+D141,Brion Markov,Secret Identity,Good Characters,Green Eyes,Strawberry Blond Hair,Living Characters,245,1983, July,1983,DC
+M108,Alexander Summers,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,558,Mar-69,1969,Marvel
+D051,Krypto,Secret Identity,Good Characters,Blue Eyes,White Hair,Living Characters,109,1955, March,1955,DC
+D287,Solis,Secret Identity,,Blue Eyes,Strawberry Blond Hair,Living Characters,138,1971, March,1971,DC
+M200,Alexander Power,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,197,Aug-84,1984,Marvel
+D093,Hans von Hammer,Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,106,1965, February,1965,DC
+D172,Dawn Granger,Secret Identity,Good Characters,Blue Eyes,White Hair,Living Characters,124,1988, October,1988,DC
+D074,William Magnus,Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,170,1962, April,1962,DC
+D149,Richard Tyler,Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,212,1985, November,1985,DC
+D061,Green Lantern (Hal Jordan),Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,1565,1959, October,1959,DC
+M057,Samuel Sawyer,Public Identity,Good Characters,Blue Eyes,Grey Hair,Deceased Characters,111,May-63,1963,Marvel
+M209,Rachel Leighton,Secret Identity,Good Characters,Green Eyes,Brown Hair,Living Characters,156,Oct-85,1985,Marvel
+M292,Hela,Secret Identity,Bad Characters,Green Eyes,Black Hair,Deceased Characters,170,Mar-64,1964,Marvel
+D261,Maxwell Lord IV,Public Identity,Neutral Characters,Black Eyes,Brown Hair,Living Characters,218,1987, May,1987,DC
+D236,Bane,Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,157,1993, January,1993,DC
+M307,Emil Blonsky,Secret Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,115,Apr-67,1967,Marvel
+M378,Phoenix Force,Secret Identity,Neutral Characters,,No Hair,Deceased Characters,229,Oct-76,1976,Marvel
+M395,Nathan Summers,Public Identity,Neutral Characters,Blue Eyes,White Hair,Living Characters,612,Jan-86,1986,Marvel
+D057,Kyle Morgan,Public Identity,Good Characters,Brown Eyes,Blond Hair,Living Characters,131,1957, February,1957,DC
+D170,Tora Olafsdotter,Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,225,1988, April,1988,DC
+M191,Amara Aquilla,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,217,Oct-83,1983,Marvel
+M227,Monet St. Croix,No Dual Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,221,Nov-94,1994,Marvel
+D260,Jason Todd,Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,235,1987, June,1987,DC
+D106,Unknown Soldier I,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,136,1970, July,1970,DC
+M284,MacDonald Gargan,Secret Identity,Bad Characters,Brown Eyes,Bald,Living Characters,317,Dec-64,1964,Marvel
+M119,Greer Grant,Public Identity,Good Characters,Green Eyes,Black Hair,Living Characters,342,Nov-72,1972,Marvel
+D147,Cynthia Reynolds,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,134,1984, October,1984,DC
+M006,Betty Dean,No Dual Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,127,Jan-40,1940,Marvel
+D066,Zinda Blake,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,104,1959, February,1959,DC
+D289,Theodore Kord,Secret Identity,,Blue Eyes,Brown Hair,Deceased Characters,429,1986, February,1986,DC
+M262,Rogue (Anna Marie),Secret Identity,Good Characters,Green Eyes,Auburn Hair,Living Characters,850,,,Marvel
+D241,Richard Swift,Secret Identity,Neutral Characters,Grey Eyes,Black Hair,Living Characters,126,1942, September,1942,DC
+M094,Jasper Sitwell,Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,134,May-66,1966,Marvel
+M179,Caliban,Secret Identity,Good Characters,Black Eyes,No Hair,Deceased Characters,127,Aug-81,1981,Marvel
+M398,Daniel Ketch,Secret Identity,Neutral Characters,Green Eyes,Brown Hair,Living Characters,311,May-90,1990,Marvel
+D071,Jeb Stuart,Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,218,1961, May,1961,DC
+D150,Emily Briggs,Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,107,1985, September,1985,DC
+D160,James Gordon,Public Identity,Good Characters,Brown Eyes,White Hair,Living Characters,1316,1987, February,1987,DC
+D234,Vril Dox I,Secret Identity,Bad Characters,Green Eyes,,Living Characters,102,1988, March,1988,DC
+M163,Walter Langkowski,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,273,Apr-79,1979,Marvel
+M178,Theresa Cassidy,Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,267,Apr-81,1981,Marvel
+M297,Heinrich Zemo,Public Identity,Bad Characters,Blue Eyes,Grey Hair,Deceased Characters,115,Mar-64,1964,Marvel
+M270,Victor von Doom,Public Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,721,Jul-62,1962,Marvel
+M197,Warlock (Technarch),Secret Identity,Good Characters,Black Eyes,No Hair,Living Characters,261,Aug-84,1984,Marvel
+M134,Piotr Rasputin,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,1162,May-75,1975,Marvel
+D164,Catherine Grant,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,151,1987, January,1987,DC
+M070,Karen Page,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,226,Apr-64,1964,Marvel
+M205,Katherine Power,Secret Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Living Characters,106,Aug-84,1984,Marvel
+M280,Mad Thinker,Secret Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,133,Jun-63,1963,Marvel
+M207,Tabitha Smith,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,316,Nov-85,1985,Marvel
+M326,Felicia Hardy,Public Identity,Bad Characters,,Blond Hair,Living Characters,332,Jul-79,1979,Marvel
+M410,Gloria Grant,No Dual Identity,,Brown Eyes,Black Hair,Living Characters,202,Jan-75,1975,Marvel
+M087,Triton,No Dual Identity,Good Characters,Green Eyes,No Hair,Living Characters,240,Dec-65,1965,Marvel
+D117,Jason Blood,Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,148,1972, September,1972,DC
+M010,Madeline Joyce,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,140,Nov-43,1943,Marvel
+M274,Adrian Toomes,Public Identity,Bad Characters,Hazel Eyes,Bald,Living Characters,248,May-63,1963,Marvel
+M061,Wanda Maximoff,Public Identity,Good Characters,Green Eyes,Brown Hair,Living Characters,1161,Mar-64,1964,Marvel
+D095,Barbara Gordon,Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,951,1967, January,1967,DC
+M414,Howard Hanover,Public Identity,,,Black Hair,Living Characters,100,,,Marvel
+M021,Susan Storm,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1713,Nov-61,1961,Marvel
+M253,Katherine Bishop,Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,122,5-Apr,2005,Marvel
+D158,Lana Lang,Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,159,1986, October,1986,DC
+D246,Giovanni Giuseppe,Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Deceased Characters,136,1960, July,1960,DC
+M187,Lockheed,Secret Identity,Good Characters,,No Hair,Living Characters,260,Feb-83,1983,Marvel
+D269,Ted Grant,Secret Identity,,Blue Eyes,Black Hair,Living Characters,605,1942, January,1942,DC
+M158,Ben Urich,No Dual Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,324,Jul-78,1978,Marvel
+D290,Perry White,Public Identity,,Blue Eyes,Brown Hair,Living Characters,350,1986, October,1986,DC
+M113,Agatha Harkness,No Dual Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,122,Jan-70,1970,Marvel
+M346,Red Hulk (Thaddeus Ross),Public Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,415,May-62,1962,Marvel
+D052,Flash (Barry Allen),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1028,1956, October,1956,DC
+M371,Daimon Hellstrom,No Dual Identity,Neutral Characters,Red Eyes,Red Hair,Living Characters,242,Sep-73,1973,Marvel
+D124,Jefferson Pierce,Secret Identity,Good Characters,Brown Eyes,,Living Characters,344,1977, April,1977,DC
+M203,Julie Power,Secret Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Living Characters,150,Aug-84,1984,Marvel
+M369,Conan,No Dual Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,787,Oct-70,1970,Marvel
+M078,Gwendolyne Stacy,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,384,Dec-65,1965,Marvel
+D294,Michael Holt,Secret Identity,,Brown Eyes,Black Hair,Living Characters,300,1997, June,1997,DC
+M032,Alicia Masters,No Dual Identity,Good Characters,Brown Eyes,Strawberry Blond Hair,Living Characters,293,Nov-62,1962,Marvel
+M263,Monica Rambeau,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,327,,,Marvel
+D081,Lawrence Trainor,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,250,1963, June,1963,DC
+M081,Hogun,Public Identity,Good Characters,Grey Eyes,Black Hair,Living Characters,371,Aug-65,1965,Marvel
+M063,Pietro Maximoff,Public Identity,Good Characters,Blue Eyes,Silver Hair,Living Characters,740,Mar-64,1964,Marvel
+M067,Sif,No Dual Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,422,Mar-64,1964,Marvel
+M075,Crystalia Amaquelin,Public Identity,Good Characters,Green Eyes,Strawberry Blond Hair,Living Characters,512,Dec-65,1965,Marvel
+M392,Lyja,Secret Identity,Neutral Characters,Green Eyes,Green Hair,Living Characters,120,Apr-84,1984,Marvel
+D046,Victoria Vale,Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,134,1948, October,1948,DC
+M137,Vance Astrovik,Public Identity,Good Characters,Hazel Eyes,Brown Hair,Living Characters,290,Jul-75,1975,Marvel
+M211,John Walker,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,346,Nov-86,1986,Marvel
+M239,Santo Vaccarro,Secret Identity,Good Characters,White Eyes,No Hair,Living Characters,238,3-Sep,2003,Marvel
+D165,Thomas Wayne,Public Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,142,1987, February,1987,DC
+M117,Luke Cage,No Dual Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,856,Jun-72,1972,Marvel
+M018,Benjamin Grimm,Public Identity,Good Characters,Blue Eyes,No Hair,Living Characters,2255,Nov-61,1961,Marvel
+M114,Barbara Morse,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,368,Jun-71,1971,Marvel
+M268,Vlad Dracula,No Dual Identity,Bad Characters,Red Eyes,White Hair,Living Characters,223,Mar-51,1951,Marvel
+D064,Gunner MacKay,Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,123,1959, May,1959,DC
+D223,Jason Woodrue,Public Identity,Bad Characters,Red Eyes,Green Hair,Living Characters,113,1962, July,1962,DC
+M151,Peter Quill,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,119,Jan-76,1976,Marvel
+M409,Jack Tarr,Secret Identity,,Black Eyes,Black Hair,Living Characters,122,Apr-74,1974,Marvel
+M336,Brock Rumlow,Secret Identity,Bad Characters,Brown Eyes,Black Hair,Living Characters,126,Oct-89,1989,Marvel
+D111,Big Barda,Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,216,1971, October,1971,DC
+D101,Jack Ryder,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,188,1968, April,1968,DC
+D284,Mick Rory,Public Identity,,Blue Eyes,,Living Characters,131,1963, November,1963,DC
+M375,Karla Sofen,Public Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,340,Dec-75,1975,Marvel
+M232,Peter Wisdom,No Dual Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,140,Feb-95,1995,Marvel
+M290,Sergei Kravinoff,Public Identity,Bad Characters,Brown Eyes,Black Hair,Deceased Characters,188,Aug-64,1964,Marvel
+D048,Roy Raymond, Sr.,Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,163,1949, November,1949,DC
+D144,Hector Hall,Secret Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,165,1983, September,1983,DC
+M370,Michael Morbius,Secret Identity,Neutral Characters,Red Eyes,Black Hair,Living Characters,231,Oct-71,1971,Marvel
+M316,Thanos,No Dual Identity,Bad Characters,Red Eyes,No Hair,Living Characters,306,Feb-73,1973,Marvel
+D159,Skeets,Public Identity,Good Characters,,,Living Characters,122,1986, February,1986,DC
+M364,Sean Cassidy,Secret Identity,Neutral Characters,Green Eyes,Strawberry Blond Hair,Living Characters,374,Jan-67,1967,Marvel
+M103,Franklin Richards,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,473,Nov-68,1968,Marvel
+D031,Justin Arthur,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,184,1941, September,1941,DC
+D068,Thomas Kalmaku,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,176,1960, October,1960,DC
+M086,Lockjaw,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,255,Dec-65,1965,Marvel
+M099,Mar-Vell,Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,245,Dec-67,1967,Marvel
+D183,Jean-Paul Valley,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,234,1992, October,1992,DC
+M059,Clinton Barton,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1394,Sep-64,1964,Marvel
+D226,Talia al Ghul,Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,177,1971, May,1971,DC
+M066,Franklin Nelson,No Dual Identity,Good Characters,Blue Eyes,Bald,Living Characters,528,Apr-64,1964,Marvel
+D255,Benjamin Turner,Secret Identity,Neutral Characters,Brown Eyes,Black Hair,Living Characters,153,1975, May,1975,DC
+M056,Isadore Cohen,Public Identity,Good Characters,,,Living Characters,132,May-63,1963,Marvel
+M016,James Woo,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,114,Oct-56,1956,Marvel
+D210,Jason Rusch,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,165,2004, July,2004,DC
+D045,Dinah Drake,Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,131,1947, August,1947,DC
+M353,Curtis Connors,Public Identity,Neutral Characters,Red Eyes,No Hair,Living Characters,250,Nov-63,1963,Marvel
+M376,Gamora,No Dual Identity,Neutral Characters,Yellow Eyes,Black Hair,Living Characters,218,Jun-75,1975,Marvel
+D023,Inza Cramer,Secret Identity,Good Characters,Green Eyes,Strawberry Blond Hair,Deceased Characters,124,1940, May,1940,DC
+M301,Frederick Myers,Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,157,Jul-66,1966,Marvel
+M381,Paladin,Secret Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,134,Jan-78,1978,Marvel
+D129,Victor Stone,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,584,1980, October,1980,DC
+M401,Robert Reynolds,Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,240,Sep-00,2000,Marvel
+M382,Emma Frost,Public Identity,Neutral Characters,Blue Eyes,Brown Hair,Living Characters,880,Jan-80,1980,Marvel
+D204,Pieter Cross,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,284,1999, February,1999,DC
+D258,Lobo,Public Identity,Neutral Characters,Red Eyes,Black Hair,Living Characters,353,1983, June,1983,DC
+M190,Valerie Cooper,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,225,Dec-83,1983,Marvel
+M388,St. John Allerdyce,Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,108,Jan-81,1981,Marvel
+D256,Werner Vertigo,Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Living Characters,104,1978, July,1978,DC
+M089,Erik Josten,Secret Identity,Good Characters,Brown Eyes,Red Hair,Living Characters,204,Oct-65,1965,Marvel
+M003,Thomas Raymond,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,373,Sep-40,1940,Marvel
+M325,Arcade,Secret Identity,Bad Characters,Blue Eyes,Red Hair,Living Characters,111,Jan-78,1978,Marvel
+D079,Tin,Secret Identity,Good Characters,Photocellular Eyes,,Living Characters,155,1962, April,1962,DC
+M213,Joanna Cargill,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,121,May-86,1986,Marvel
+M332,En Sabah Nur,Public Identity,Bad Characters,Red Eyes,Black Hair,Deceased Characters,160,Jun-86,1986,Marvel
+M142,Leiko Wu,Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,100,Oct-75,1975,Marvel
+D008,Wesley Dodds,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,391,1939, April,1939,DC
+D014,Albert Pratt,Secret Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,370,1940, October,1940,DC
+D271,Alfred Twidgett,Public Identity,,,,Living Characters,137,1942, June,1942,DC
+D022,Max Mercury,Secret Identity,Good Characters,Blue Eyes,Grey Hair,Living Characters,183,1940, November,1940,DC
+M152,Ikaris (Eternal),Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,106,Jul-76,1976,Marvel
+D096,Boston Brand,Secret Identity,Good Characters,Blue Eyes,,Deceased Characters,262,1967, October,1967,DC
+D099,Guy Gardner,Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,593,1968, March,1968,DC
+M255,William Kaplan,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,119,5-Apr,2005,Marvel
+D177,Maxima,Public Identity,Good Characters,Brown Eyes,Red Hair,Deceased Characters,124,1989, September,1989,DC
+D217,Jervis Tetch,Secret Identity,Bad Characters,Blue Eyes,Red Hair,Living Characters,105,1948, October,1948,DC
+M237,Valeria Richards,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,171,2-Feb,2002,Marvel
+M199,Paige Guthrie,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,207,Nov-84,1984,Marvel
+M093,Sharon Carter,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,332,Mar-66,1966,Marvel
+M039,Henry McCoy,Public Identity,Good Characters,Blue Eyes,Blue Hair,Living Characters,1825,Sep-63,1963,Marvel
+D235,Evan McCulloch,Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,116,1989, February,1989,DC
+D107,Lilith Clay,Secret Identity,Good Characters,Green Eyes,Strawberry Blond Hair,Deceased Characters,107,1970, February,1970,DC
+M294,Samuel Sterns,Public Identity,Bad Characters,Red Eyes,Black Hair,Deceased Characters,152,Dec-64,1964,Marvel
+M157,Christopher Summers,Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,110,Apr-77,1977,Marvel
+M231,Everett Thomas,Secret Identity,Good Characters,Brown Eyes,Bald,Deceased Characters,103,Sep-94,1994,Marvel
+M017,Jonathan Clay,Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,237,Aug-60,1960,Marvel
+M220,Dwayne Taylor,Secret Identity,Good Characters,Brown Eyes,Black Hair,Deceased Characters,169,Dec-89,1989,Marvel
+M347,Scott Summers,Public Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,1955,Sep-63,1963,Marvel
+D185,Stephanie Brown,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,198,1992, August,1992,DC
+M405,Millicent Collins,Public Identity,,Blue Eyes,Blond Hair,Living Characters,321,Dec-45,1945,Marvel
+M123,Frank Drake,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,114,Apr-72,1972,Marvel
+M233,Celeste Cuckoo,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,177,1-Nov,2001,Marvel
+M202,Leech,Secret Identity,Good Characters,White Eyes,No Hair,Living Characters,152,Mar-84,1984,Marvel
+M264,James Bradley,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,158,,,Marvel
+M104,Lorna Dane,Secret Identity,Good Characters,Green Eyes,Green Hair,Living Characters,433,Oct-68,1968,Marvel
+M254,Vision (Jonas),Public Identity,Good Characters,Gold Eyes,No Hair,Deceased Characters,119,5-Aug,2005,Marvel
+D132,Mari McCabe,Secret Identity,Good Characters,Amber Eyes,Brown Hair,Living Characters,268,1981, July,1981,DC
+D273,Lawrence Jordan,Secret Identity,,Brown Eyes,Brown Hair,Deceased Characters,100,1942, February,1942,DC
+M095,Wyatt Wingfoot,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,119,May-66,1966,Marvel
+M279,Nightmare,Secret Identity,Bad Characters,Black Eyes,Black Hair,Living Characters,136,Jul-63,1963,Marvel
+M342,Loki Laufeyson,No Dual Identity,Neutral Characters,Green Eyes,Black Hair,Living Characters,532,Aug-49,1949,Marvel
+M299,Miles Warren,Secret Identity,Bad Characters,Green Eyes,No Hair,Living Characters,160,Dec-65,1965,Marvel
+M306,George Tarleton,Public Identity,Bad Characters,White Eyes,Brown Hair,Living Characters,140,Sep-67,1967,Marvel
+M389,Kyle Gibney,Secret Identity,Neutral Characters,Blue Eyes,Blond Hair,Deceased Characters,142,Aug-83,1983,Marvel
+M281,David Cannon,Public Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,109,Dec-63,1963,Marvel
+D225,Uxas,Public Identity,Bad Characters,Red Eyes,,Deceased Characters,388,1970, December,1970,DC
+M272,Burglar,Public Identity,Bad Characters,Blue Eyes,Blond Hair,Deceased Characters,137,Aug-62,1962,Marvel
+D174,Helena Bertinelli,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,393,1989, April,1989,DC
+M044,Janet van Dyne,Public Identity,Good Characters,Blue Eyes,Auburn Hair,Living Characters,1120,Jun-63,1963,Marvel
+M110,Kyle Richmond,Secret Identity,Good Characters,Brown Eyes,Auburn Hair,Living Characters,227,Oct-69,1969,Marvel
+D103,Dolphin,,Good Characters,Blue Eyes,Silver Hair,Deceased Characters,115,1968, December,1968,DC
+M005,Makkari,Secret Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Living Characters,131,Aug-40,1940,Marvel
+M355,Edward Leeds,Secret Identity,Neutral Characters,Blue Eyes,Brown Hair,Deceased Characters,181,Nov-64,1964,Marvel
+D025,Wonder Woman (Diana Prince),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,1231,1941, December,1941,DC
+M053,Harold Hogan,No Dual Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,166,Sep-63,1963,Marvel
+M091,Jacques Duquesne,Known to Authorities Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,111,Aug-65,1965,Marvel
+M399,Deadpool (Wade Wilson),Secret Identity,Neutral Characters,Brown Eyes,Bald,Living Characters,500,Feb-91,1991,Marvel
+D109,Scott Free,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,268,1971, April,1971,DC
+M324,Raven Darkholme,Secret Identity,Bad Characters,Yellow Eyes,Red Hair,Living Characters,371,Apr-78,1978,Marvel
+D162,Hippolyta,Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,231,1987, February,1987,DC
+D135,Beatriz da Costa,Secret Identity,Good Characters,Green Eyes,Green Hair,Living Characters,325,1982, June,1982,DC
+M177,Sage,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,172,Apr-80,1980,Marvel
+M085,Karnak,Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,257,Dec-65,1965,Marvel
+D002,Samuel Morgan,,Good Characters,,Red Hair,Deceased Characters,155,1937, March,1937,DC
+D176,Katar Hol,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,125,1989, August,1989,DC
+M252,Maria Hill,No Dual Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,325,5-Apr,2005,Marvel
+M149,Jonathan Hart,Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,125,Mar-76,1976,Marvel
+M229,Peter Parker (Kaine),Secret Identity,Good Characters,Hazel Eyes,Brown Hair,Living Characters,137,Dec-94,1994,Marvel
+M238,Sooraya Qadir,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,125,2-Dec,2002,Marvel
+M291,Quentin Beck,Secret Identity,Bad Characters,Blue Eyes,Bald,Living Characters,180,Jun-64,1964,Marvel
+D253,Metron,Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Deceased Characters,161,1971, March,1971,DC
+M312,Todd Arliss,Secret Identity,Bad Characters,Grey Eyes,No Hair,Living Characters,116,Sep-68,1968,Marvel
+M130,Red Sonja,Public Identity,Good Characters,Brown Eyes,Red Hair,Deceased Characters,125,Feb-73,1973,Marvel
+M313,Ophelia Sarkissian,Secret Identity,Bad Characters,Green Eyes,Black Hair,Living Characters,175,Feb-69,1969,Marvel
+D262,Edward Nashton,Public Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,173,1988, January,1988,DC
+M084,Kevin Plunder,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,260,Mar-65,1965,Marvel
+M176,Alison Blaire,Public Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Living Characters,353,Feb-80,1980,Marvel
+M317,Helmut Zemo,Public Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,184,Dec-73,1973,Marvel
+D163,Damian Wayne (Prime Earth),Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,216,1987, September,1987,DC
+D186,Raymond Terrill,Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,192,1992, February,1992,DC
+M054,Robert Ralston,No Dual Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,148,May-63,1963,Marvel
+M204,Jack Power,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,106,Aug-84,1984,Marvel
+D202,Courtney Whitmore,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,305,1999, July,1999,DC
+M240,Victor Borkowski,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,184,3-Aug,2003,Marvel
+D035,John Sargent,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,113,1941, May,1941,DC
+D282,Clifford Steele,Public Identity,,Photocellular Eyes,,Living Characters,314,1963, June,1963,DC
+D054,Sugar Plumm,,Good Characters,,Blond Hair,Living Characters,105,1956, May,1956,DC
+D058,Matthew Ryan,Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,131,1957, February,1957,DC
+D166,Holly Robinson,Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,114,1987, February,1987,DC
+M269,Harvey Elder,Secret Identity,Bad Characters,Brown Eyes,Grey Hair,Living Characters,164,Nov-61,1961,Marvel
+D026,Aquaman (Arthur Curry),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1121,1941, November,1941,DC
+D015,William Batson,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,321,1940, February,1940,DC
+M042,Charles Xavier,Public Identity,Good Characters,Blue Eyes,Bald,Deceased Characters,1233,Sep-63,1963,Marvel
+M400,Marrow (Sarah),Secret Identity,Neutral Characters,Blue Eyes,Red Hair,Living Characters,119,Sep-94,1994,Marvel
+M189,Meggan Puceanu,Secret Identity,Good Characters,,,Living Characters,240,Dec-83,1983,Marvel
+D063,Hartley Rathaway,Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,160,1959, May,1959,DC
+M029,Richard Jones,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,590,May-62,1962,Marvel
+M390,Callisto,Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,114,May-83,1983,Marvel
+D098,Charles Victor Szasz,Secret Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Deceased Characters,128,1967, June,1967,DC
+M407,William Foster,Secret Identity,,Brown Eyes,Black Hair,Deceased Characters,100,Sep-66,1966,Marvel
+M362,Maximus,Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,147,Feb-66,1966,Marvel
+M208,Silver Sablinova,Secret Identity,Good Characters,Blue Eyes,Silver Hair,Deceased Characters,158,Jun-85,1985,Marvel
+M391,Venom (Symbiote),Known to Authorities Identity,Neutral Characters,Variable Eyes,No Hair,Living Characters,348,May-84,1984,Marvel
+M322,Sabretooth (Victor Creed),Secret Identity,Bad Characters,Amber Eyes,Blond Hair,Living Characters,382,Aug-77,1977,Marvel
+M027,May Reilly,No Dual Identity,Good Characters,Blue Eyes,Grey Hair,Living Characters,1000,Aug-62,1962,Marvel
+D230,Jade Nguyen,Secret Identity,Bad Characters,Green Eyes,Black Hair,Living Characters,103,1983, August,1983,DC
+M128,Eros,Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,193,Feb-73,1973,Marvel
+D267,Charles McNider,Secret Identity,,Blue Eyes,Blond Hair,Deceased Characters,361,1941, April,1941,DC
+M413,Blaine Colt,Public Identity,,Blue Eyes,Blond Hair,Deceased Characters,429,,,Marvel
+M352,William Baker,Secret Identity,Neutral Characters,Brown Eyes,Brown Hair,Living Characters,338,Sep-63,1963,Marvel
+D040,Terrence Sloane,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Deceased Characters,151,1942, January,1942,DC
+D136,Salakk,Secret Identity,Good Characters,White Eyes,,Living Characters,155,1982, February,1982,DC
+M082,Blackagar Boltagon,No Dual Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,366,Dec-65,1965,Marvel
+M167,Michael Twoyoungmen,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,200,Apr-79,1979,Marvel
+M221,Remy LeBeau,Secret Identity,Good Characters,Black Eyeballs,Brown Hair,Living Characters,636,Jul-90,1990,Marvel
+D197,Frederick Freeman,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,125,1995, May,1995,DC
+M118,Johnathon Blaze,Secret Identity,Good Characters,Blue Eyes,Reddish Blond Hair,Living Characters,426,Aug-72,1972,Marvel
+D222,Arthur Light,Public Identity,Bad Characters,Black Eyes,Black Hair,Deceased Characters,142,1962, June,1962,DC
+D276,Leonard Snart,Secret Identity,,Brown Eyes,Brown Hair,Living Characters,219,1957, June,1957,DC
+M058,Frigga,Secret Identity,Good Characters,Blue Eyes,White Hair,Living Characters,106,May-63,1963,Marvel
+M030,Elizabeth Ross,Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,446,May-62,1962,Marvel
+M372,Wolverine (James \"Logan\" Howlett),Public Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,3061,Oct-74,1974,Marvel
+D032,Patrick Dugan,Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,177,1941, October,1941,DC
+D076,Platinum,Secret Identity,Good Characters,Photocellular Eyes,,Living Characters,164,1962, April,1962,DC
+D028,Sanderson Hawkins,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,241,1941, December,1941,DC
+M265,Steel,Public Identity,Good Characters,,White Hair,Living Characters,134,,,Marvel
+D104,Leonid Kovar,Secret Identity,Good Characters,Green Eyes,Blond Hair,Living Characters,108,1968, December,1968,DC
+M222,Elvin Haliday,Secret Identity,Good Characters,Brown Eyes,Bald,Living Characters,158,Nov-90,1990,Marvel
+M243,Quintavius Quire,Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,130,3-Jan,2003,Marvel
+M111,Brunnhilde,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,361,Dec-70,1970,Marvel
+M150,Rocket Raccoon,No Dual Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,120,Jun-76,1976,Marvel
+D070,Susan Dearbon,Public Identity,Good Characters,,Black Hair,Deceased Characters,235,1961, March,1961,DC
+D244,Pallas Athena,Public Identity,Neutral Characters,Grey Eyes,Brown Hair,Living Characters,118,1958, May,1958,DC
+M033,Heimdall,Secret Identity,Good Characters,Grey Eyes,Brown Hair,Living Characters,270,Oct-62,1962,Marvel
+M241,Julian Keller,Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,179,3-Aug,2003,Marvel
+D133,Arisia Rrab,Public Identity,Good Characters,Yellow Eyes,Blond Hair,Living Characters,173,1981, May,1981,DC
+M088,Zabu,Public Identity,Good Characters,Green Eyes,Orange Hair,Living Characters,234,Mar-65,1965,Marvel
+M004,Jeffrey Mace,Secret Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,139,Dec-40,1940,Marvel
+M412,Marla Madison,No Dual Identity,,Brown Eyes,Brown Hair,Deceased Characters,129,Nov-76,1976,Marvel
+M116,Theodore Sallis,Secret Identity,Good Characters,Red Eyes,No Hair,Living Characters,249,May-71,1971,Marvel
+D199,Linda Danvers,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,123,1996, September,1996,DC
+M023,Yao,Secret Identity,Good Characters,Brown Eyes,Bald,Living Characters,122,Jun-61,1961,Marvel
+M319,Brian Calusky,Public Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,133,Nov-74,1974,Marvel
+D011,Jason Garrick,Public Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,951,1940, January,1940,DC
+M120,Mercedes Knight,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,259,Mar-72,1972,Marvel
+M383,Heather McNeil,Public Identity,Neutral Characters,Green Eyes,Red Hair,Living Characters,252,Nov-80,1980,Marvel
+D087,Steven Dayton,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,140,1964, November,1964,DC
+D203,Kendra Saunders,Secret Identity,Good Characters,Hazel Eyes,Brown Hair,Deceased Characters,301,1999, August,1999,DC
+M126,Arthur Douglas,Secret Identity,Good Characters,Blue Eyes,Brown Hair,Living Characters,264,Feb-73,1973,Marvel
+D024,Dian Belmont,Public Identity,Good Characters,Hazel Eyes,Brown Hair,Deceased Characters,113,1940, February,1940,DC
+D283,Mera,Public Identity,,Blue Eyes,Red Hair,Living Characters,226,1963, October,1963,DC
+D268,Oswald Cobblepot,Public Identity,,Blue Eyes,Black Hair,Living Characters,253,1941, December,1941,DC
+M009,Robert Frank,Secret Identity,Good Characters,Brown Eyes,Grey Hair,Deceased Characters,103,Aug-41,1941,Marvel
+M129,Mantis,Secret Identity,Good Characters,Green Eyes,Black Hair,Living Characters,156,Jun-73,1973,Marvel
+D134,Terrence Long,Public Identity,Good Characters,Blue Eyes,Red Hair,Deceased Characters,116,1981, June,1981,DC
+D198,Cassandra Sandsmark,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,423,1996, January,1996,DC
+M300,Aleksei Sytsevich,Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,239,Oct-66,1966,Marvel
+M184,Danielle Moonstar,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,388,Nov-82,1982,Marvel
+M185,Tyrone Johnson,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,226,Mar-82,1982,Marvel
+M298,Leland Owlsley,Public Identity,Bad Characters,Blue Eyes,Brown Hair,Living Characters,107,Aug-64,1964,Marvel
+M302,Ulysses Klaw,Public Identity,Bad Characters,Red Eyes,Bald,Deceased Characters,143,Aug-66,1966,Marvel
+M403,Namor McKenzie,No Dual Identity,Neutral Characters,Green Eyes,Black Hair,Living Characters,1528,,,Marvel
+M109,Samuel Wilson,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,512,Sep-69,1969,Marvel
+M315,Hammerhead (Joseph),Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,116,Oct-72,1972,Marvel
+M218,Prosh,Secret Identity,Good Characters,Variable Eyes,No Hair,Living Characters,109,Jan-88,1988,Marvel
+M195,James Proudstar,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,320,Jun-84,1984,Marvel
+D275,Phantom Stranger,Secret Identity,,Black Eyes,Black Hair,Living Characters,335,1952, September,1952,DC
+D113,Izaya,Public Identity,Good Characters,Grey Eyes,White Hair,Deceased Characters,132,1971, March,1971,DC
+M341,Dorma,No Dual Identity,Neutral Characters,Blue Eyes,Auburn Hair,Deceased Characters,113,Oct-39,1939,Marvel
+M019,Reed Richards,Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,2072,Nov-61,1961,Marvel
+M295,Dormammu,No Dual Identity,Bad Characters,Yellow Eyes,No Hair,Living Characters,132,Nov-64,1964,Marvel
+D247,Thaal Sinestro,Public Identity,Neutral Characters,Yellow Eyes,Black Hair,Living Characters,237,1961, August,1961,DC
+D259,Joseph Wilson,Secret Identity,Neutral Characters,Green Eyes,Blond Hair,Living Characters,229,1984, May,1984,DC
+M135,Kurt Wagner,Secret Identity,Good Characters,Yellow Eyes,Blue Hair,Living Characters,1047,May-75,1975,Marvel
+M228,Jonothon Starsmore,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,187,Nov-94,1994,Marvel
+D263,Richard Occult,Secret Identity,,Grey Eyes,Black Hair,Living Characters,125,1935, October,1935,DC
+M345,Odin Borson,Public Identity,Neutral Characters,Blue Eyes,White Hair,Living Characters,502,Oct-62,1962,Marvel
+M159,Wendell Vaughn,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,290,Jan-78,1978,Marvel
+M367,Supreme Intelligence,No Dual Identity,Neutral Characters,Yellow Eyes,Green Hair,Living Characters,128,Aug-67,1967,Marvel
+D152,James Olsen,Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,557,1986, October,1986,DC
+M210,Sharon Ventura,Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,105,Sep-85,1985,Marvel
+M282,Karl Mordo,Secret Identity,Bad Characters,Brown Eyes,Black Hair,Deceased Characters,100,Aug-63,1963,Marvel
+D120,Travis Morgan,Public Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,180,1975, November,1975,DC
+D127,Nimue Inwudu,Public Identity,Good Characters,Green Eyes,Black Hair,Living Characters,121,1978, February,1978,DC
+D257,Slade Wilson,Secret Identity,Neutral Characters,Blue Eyes,White Hair,Living Characters,336,1980, December,1980,DC
+M168,Cassandra Lang,Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,153,Apr-79,1979,Marvel
+D190,John Henry Irons,Public Identity,Good Characters,Brown Eyes,,Living Characters,345,1993, June,1993,DC
+M196,Forge,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,276,Aug-84,1984,Marvel
+D182,Renee Montoya,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,308,1992, March,1992,DC
+D209,Kara Zor-El,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,297,2004, May,2004,DC
+D250,Pamela Isley,Secret Identity,Neutral Characters,Green Eyes,Red Hair,Living Characters,286,1966, June,1966,DC
+M266,Adolf Hitler,No Dual Identity,Bad Characters,Brown Eyes,Brown Hair,Deceased Characters,145,Sep-40,1940,Marvel
+M327,Roderick Kingsley,Public Identity,Bad Characters,Blue Eyes,Grey Hair,Living Characters,108,Jun-80,1980,Marvel
+M011,Patricia Walker,Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,550,Nov-44,1944,Marvel
+M339,Veranke,No Dual Identity,Bad Characters,Green Eyes,Green Hair,Deceased Characters,156,5-Jan,2005,Marvel
+M296,Jason Wyngarde,Secret Identity,Bad Characters,Brown Eyes,Grey Hair,Deceased Characters,121,Mar-64,1964,Marvel
+M131,Daniel Rand,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,618,May-74,1974,Marvel
+M079,Medusalith Amaquelin,Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,382,Mar-65,1965,Marvel
+D175,Eradicator,Public Identity,Good Characters,Photocellular Eyes,Black Hair,Deceased Characters,126,1989, May,1989,DC
+D110,Orion,Public Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Deceased Characters,237,1971, March,1971,DC
+D242,Teth-Adam,Secret Identity,Neutral Characters,Brown Eyes,Black Hair,Living Characters,152,1945, December,1945,DC
+M335,Mary Walker,Secret Identity,Bad Characters,Brown Eyes,Brown Hair,Living Characters,111,May-88,1988,Marvel
+D125,Ronald Raymond,Secret Identity,Good Characters,Blue Eyes,,Living Characters,386,1978, March,1978,DC
+M038,Iron Man (Anthony \"Tony\" Stark),Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,2961,Mar-63,1963,Marvel
+M062,Natalia Romanova,Public Identity,Good Characters,Green Eyes,Red Hair,Living Characters,1050,Apr-64,1964,Marvel
+M212,Arthur Maddicks,No Dual Identity,Good Characters,White Eyes,No Hair,Living Characters,133,Mar-86,1986,Marvel
+D059,Walter Haley,Public Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,129,1957, February,1957,DC
+D119,Harvey Bullock,Public Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,413,1974, July,1974,DC
+M097,Dane Whitman,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,478,Dec-67,1967,Marvel
+D049,Ohiyesa I,Public Identity,Good Characters,Black Eyes,Black Hair,Living Characters,109,1949, September,1949,DC
+M001,Human Torch (Android),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,548,Oct-39,1939,Marvel
+M156,Hepzibah,Secret Identity,Good Characters,Green Eyes,White Hair,Living Characters,112,Oct-77,1977,Marvel
+M251,Noriko Ashida,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,145,4-Jan,2004,Marvel
+M359,Eternity,Secret Identity,Neutral Characters,Black Eyes,No Hair,Living Characters,100,Nov-65,1965,Marvel
+D168,Dmitri Pushkin,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Deceased Characters,110,1987, February,1987,DC
+D138,Jennifer-Lynn Hayden,Secret Identity,Good Characters,Green Eyes,Green Hair,Living Characters,309,1983, September,1983,DC
+D220,Mark Mardon,Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,152,1960, January,1960,DC
+D293,Linda Park,Public Identity,,Brown Eyes,Black Hair,Living Characters,174,1989, July,1989,DC
+D156,Jonathan Kent,Public Identity,Good Characters,Blue Eyes,White Hair,Deceased Characters,254,1986, October,1986,DC
+D212,Joker,Secret Identity,Bad Characters,Green Eyes,Green Hair,Living Characters,517,1940, June,1940,DC
+D021,William Glenmorgan,Public Identity,Good Characters,Blue Eyes,Black Hair,Deceased Characters,199,1940, June,1940,DC
+D115,Swamp Thing,Public Identity,Good Characters,Red Eyes,,Living Characters,309,1972, November,1972,DC
+M071,Anna May,No Dual Identity,Good Characters,Blue Eyes,White Hair,Living Characters,224,Aug-64,1964,Marvel
+M249,Megan Gwynn,Public Identity,Good Characters,Black Eyeballs,Pink Hair,Living Characters,229,4-Nov,2004,Marvel
+D010,Alan Scott,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,969,1940, July,1940,DC
+D171,Matrix (Pocket Universe),Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,206,1988, April,1988,DC
+D231,Alexander Luthor,Public Identity,Bad Characters,Green Eyes,,Living Characters,677,1986, October,1986,DC
+D265,Joan Williams,Public Identity,,Blue Eyes,Grey Hair,Living Characters,171,1940, January,1940,DC
+M183,Rahne Sinclair,Secret Identity,Good Characters,Green Eyes,Red Hair,Living Characters,448,Nov-82,1982,Marvel
+M396,Edward Brock,Public Identity,Neutral Characters,Black Eyes,Blond Hair,Living Characters,318,Sep-86,1986,Marvel
+M055,Dino Manelli,Public Identity,Good Characters,,Black Hair,Deceased Characters,137,May-63,1963,Marvel
+D039,Daniel Leong,Secret Identity,Good Characters,Black Eyes,Black Hair,Deceased Characters,164,1942, February,1942,DC
+M162,Jean-Paul Beaubier,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,313,Apr-79,1979,Marvel
+D148,Edward Bloomberg,Secret Identity,Good Characters,Yellow Eyes,Grey Hair,Deceased Characters,111,1984, June,1984,DC
+M143,Brian Braddock,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,528,Oct-76,1976,Marvel
+D179,Enya Wazzo,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,104,1989, November,1989,DC
+D091,Garfield Logan,Public Identity,Good Characters,Green Eyes,Green Hair,Living Characters,595,1965, November,1965,DC
+D169,Sarah Essen,Public Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,103,1987, March,1987,DC
+M386,Elektra Natchios,Secret Identity,Neutral Characters,Blue Eyes,Black Hair,Living Characters,280,Jan-81,1981,Marvel
+D123,Leslie Thompkins,Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,111,1976, March,1976,DC
+D065,Sarge Clay,Public Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Deceased Characters,121,1959, May,1959,DC
+M051,John Jonah Jameson III,No Dual Identity,Good Characters,Brown Eyes,Auburn Hair,Living Characters,240,Mar-63,1963,Marvel
+M028,Eugene Thompson,Secret Identity,Good Characters,Blue Eyes,Strawberry Blond Hair,Living Characters,689,Aug-62,1962,Marvel
+M377,Elizabeth Braddock,Secret Identity,Neutral Characters,Blue Eyes,Purple Hair,Living Characters,708,Dec-76,1976,Marvel
+M277,Dmitri Smerdyakov,Secret Identity,Bad Characters,Variable Eyes,Variable Hair,Living Characters,146,Mar-63,1963,Marvel
+D173,Timothy Drake,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,1095,1989, August,1989,DC
+M363,Paul Norbert Ebersol,Secret Identity,Neutral Characters,Brown Eyes,Black Hair,Deceased Characters,125,Feb-66,1966,Marvel
+D009,Richard Grayson,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,1237,1940, April,1940,DC
+M216,Eric Masterson,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Deceased Characters,198,May-88,1988,Marvel
+D072,James Ewell Brown Stuart,Public Identity,Good Characters,,Brown Hair,Deceased Characters,212,1961, May,1961,DC
+D278,Rip Hunter,Secret Identity,,Blue Eyes,Blond Hair,Living Characters,103,1959, June,1959,DC
+M287,Carl Creel,Public Identity,Bad Characters,Blue Eyes,Bald,Living Characters,202,Apr-64,1964,Marvel
+D006,Wing How,Secret Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,103,1938, October,1938,DC
+M007,Captain America (Steven Rogers),Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,3360,Mar-41,1941,Marvel
+M102,Carol Danvers,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,881,Mar-68,1968,Marvel
+D184,Jesse Chambers,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,228,1992, August,1992,DC
+M012,Aquaria Neptunia,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,139,May-47,1947,Marvel
+M136,Marc Spector,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,387,Aug-75,1975,Marvel
+M285,Amora,Public Identity,Bad Characters,Green Eyes,Blond Hair,Living Characters,247,Apr-64,1964,Marvel
+M411,Clive Reston,Public Identity,,Blue Eyes,Grey Hair,Living Characters,104,Mar-75,1975,Marvel
+M256,Layla Miller,No Dual Identity,Good Characters,Green Eyes,Blond Hair,Living Characters,108,5-Sep,2005,Marvel
+D274,Vandar Adg,Public Identity,,Brown Eyes,Black Hair,Living Characters,188,1943, December,1943,DC
+D237,Harleen Quinzel,Public Identity,Bad Characters,Blue Eyes,Blond Hair,Living Characters,153,1999, October,1999,DC
+M293,Wolfgang von Strucker,Public Identity,Bad Characters,Blue Eyes,Bald,Deceased Characters,164,Jan-64,1964,Marvel
+D155,Martha Clark,Public Identity,Good Characters,Blue Eyes,White Hair,Living Characters,266,1986, October,1986,DC
+M171,Bambina Arbogast,No Dual Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,125,Jan-79,1979,Marvel
+D219,Victor Fries,Secret Identity,Bad Characters,Blue Eyes,,Living Characters,143,1959, February,1959,DC
+D085,Zatanna Zatara,Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,439,1964, November,1964,DC
+D041,Rip Carter,Public Identity,Good Characters,,Black Hair,Living Characters,127,1942, June,1942,DC
+M024,Spider-Man (Peter Parker),Secret Identity,Good Characters,Hazel Eyes,Brown Hair,Living Characters,4043,Aug-62,1962,Marvel
+M261,Idie Okonkwo,Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,104,10-Nov,2010,Marvel
+D043,Alfred Pennyworth,Public Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,930,1943, April,1943,DC
+D053,GenderTest,Secret Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1028,1956, October,1956,DC
+M234,Irma Cuckoo,Secret Identity,Good Characters,Blue Eyes,Black Hair,Living Characters,175,1-Nov,2001,Marvel
+D034,Victory,,Good Characters,Black Eyes,White Hair,Living Characters,130,1941, September,1941,DC
+D272,Elizabeth Lawrence,Secret Identity,,Blue Eyes,Blond Hair,Living Characters,120,1942, December,1942,DC
+M387,Dominikos Petrakis,Secret Identity,Neutral Characters,Brown Eyes,Brown Hair,Deceased Characters,108,Jan-81,1981,Marvel
+M155,Jocasta,No Dual Identity,Good Characters,Red Eyes,No Hair,Living Characters,140,Aug-77,1977,Marvel
+M008,James Buchanan Barnes,Secret Identity,Good Characters,Brown Eyes,Brown Hair,Living Characters,641,Mar-41,1941,Marvel
+M192,Madison Jeffries,No Dual Identity,Good Characters,Brown Eyes,Black Hair,Living Characters,193,Aug-83,1983,Marvel
+M077,Volstagg,Public Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,406,Aug-65,1965,Marvel
+D254,Etrigan,Public Identity,Neutral Characters,Red Eyes,,Living Characters,311,1972, September,1972,DC
+M340,Akihiro,Secret Identity,Bad Characters,Blue Eyes,Black Hair,Living Characters,189,6-Oct,2006,Marvel
+M267,Johann Shmidt,Public Identity,Bad Characters,Blue Eyes,Blond Hair,Deceased Characters,376,Aug-41,1941,Marvel
+D292,Barbara Ann Minerva,Public Identity,,Brown Eyes,,Living Characters,131,1987, August,1987,DC
+M122,Jack Russell,Secret Identity,Good Characters,Blue Eyes,Red Hair,Living Characters,178,Feb-72,1972,Marvel
+M330,Madelyne Pryor,Public Identity,Bad Characters,Green Eyes,Red Hair,Living Characters,146,Apr-83,1983,Marvel
+M343,Ares,Secret Identity,Neutral Characters,Brown Eyes,Brown Hair,Deceased Characters,236,Apr-49,1949,Marvel
+D105,Dinah Laurel Lance,Public Identity,Good Characters,Blue Eyes,Blond Hair,Living Characters,1075,1969, November,1969,DC
+D232,Ares,Public Identity,Bad Characters,Red Eyes,Blond Hair,Living Characters,127,1987, February,1987,DC
+M304,Wilson Fisk,Public Identity,Bad Characters,Blue Eyes,Bald,Living Characters,503,Jul-67,1967,Marvel
+
