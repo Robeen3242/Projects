@@ -6,7 +6,8 @@ library(tidyverse)
 library(ggplot2)
 library(dplyr)
 library(readr)
-
+filter <- dplyr::filter
+lag <- dplyr::lag
 # =================================================
 # 1. DATA LOADING AND PREPARATION
 # =================================================
@@ -191,7 +192,7 @@ plot_top_champions <- function(data, top_n = 15) {
 
 # Example usage:
 # Replace 'your_data.csv' with your actual CSV file path
-main <- function(csv_file = "lol_champion_items.csv") {
+main <- function(csv_file = "lol_sample.csv") {
   
   cat("=== LEAGUE OF LEGENDS WIN RATE ANALYSIS ===\n\n")
   
@@ -246,7 +247,7 @@ main <- function(csv_file = "lol_champion_items.csv") {
 # =================================================
 
 # Function to generate sample data without csv
-generate_sample_data <- function(filename = "lol_champion_items.csv") {
+generate_sample_data <- function(filename = "lol_sample.csv") {
   set.seed(123)
   
   champions <- c("Ahri", "Yasuo", "Zed", "Lux", "Jinx", "Thresh", "Lee Sin", 
@@ -285,7 +286,7 @@ generate_sample_data <- function(filename = "lol_champion_items.csv") {
 # =================================================
 
 # Uncomment this line to generate sample data (no CSV available):
-# generate_sample_data("lol_champion_items.csv")
+generate_sample_data("lol_sample.csv")
 
 # Run the main analysis (replace with filename):
-# result <- main("lol_champion_items.csv")
+result <- main("lol_sample.csv")

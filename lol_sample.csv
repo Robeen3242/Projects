@@ -1,0 +1,157 @@
+champion,item,win_rate,games_played
+Ahri,Infinity Edge,46.1707979667188,4814
+Yasuo,Infinity Edge,50.999752373426254,250
+Zed,Infinity Edge,47.34155859148443,6909
+Lux,Infinity Edge,51.913145628851076,9929
+Jinx,Infinity Edge,52.46718507884051,8273
+Thresh,Infinity Edge,43.83677755554658,7010
+Lee Sin,Infinity Edge,48.490419563572026,2307
+Vayne,Infinity Edge,52.00381387122144,1128
+Darius,Infinity Edge,48.715406594364694,8617
+Garen,Infinity Edge,47.800971698229574,7547
+Katarina,Infinity Edge,52.62501732183872,7834
+Ezreal,Infinity Edge,47.76933420415684,8110
+Ahri,Rabadon's Deathcap,55.82575031309325,2055
+Yasuo,Rabadon's Deathcap,54.694293070268486,8271
+Zed,Rabadon's Deathcap,49.62978627175968,5457
+Lux,Rabadon's Deathcap,58,5983
+Jinx,Rabadon's Deathcap,51.1734030257113,4192
+Thresh,Rabadon's Deathcap,48.97352431849911,1084
+Lee Sin,Rabadon's Deathcap,52.05574497826458,6282
+Vayne,Rabadon's Deathcap,58,1085
+Darius,Rabadon's Deathcap,58,4332
+Garen,Rabadon's Deathcap,55.98999352941179,1683
+Katarina,Rabadon's Deathcap,55.426119713977194,4784
+Ezreal,Rabadon's Deathcap,58,7963
+Ahri,Trinity Force,52.85894534299402,4875
+Yasuo,Trinity Force,53.40053099643759,6743
+Zed,Trinity Force,51.714357004698634,1084
+Lux,Trinity Force,52.22776184677668,8635
+Jinx,Trinity Force,49.10092675108297,7577
+Thresh,Trinity Force,47.64459723983261,2606
+Lee Sin,Trinity Force,56.00973185177171,294
+Vayne,Trinity Force,55.38714602401267,3223
+Darius,Trinity Force,53.217777990898774,6777
+Garen,Trinity Force,54.29185327935816,4749
+Katarina,Trinity Force,46.38866466908123,2231
+Ezreal,Trinity Force,51.03492235915463,3563
+Ahri,Guardian Angel,50.51176231932219,9617
+Yasuo,Guardian Angel,45.30491771512536,4048
+Zed,Guardian Angel,46.28253048872403,7856
+Lux,Guardian Angel,45.45109748363648,2857
+Jinx,Guardian Angel,44.59785409648559,3932
+Thresh,Guardian Angel,47.20819750548082,811
+Lee Sin,Guardian Angel,47.20030143836484,9743
+Vayne,Guardian Angel,46.76920349613938,5469
+Darius,Guardian Angel,44.690499494161834,3600
+Garen,Guardian Angel,44.559488886501306,3168
+Katarina,Guardian Angel,45.46462548105836,8819
+Ezreal,Guardian Angel,47.70209092300347,4154
+Ahri,Blade of the Ruined King,46.59409937596445,9860
+Yasuo,Blade of the Ruined King,52.380316851513484,572
+Zed,Blade of the Ruined King,44.44190621918925,6197
+Lux,Blade of the Ruined King,48.31697090392059,1248
+Jinx,Blade of the Ruined King,51.804458286765474,2136
+Thresh,Blade of the Ruined King,45.18557903607079,2412
+Lee Sin,Blade of the Ruined King,49.47789907450124,7840
+Vayne,Blade of the Ruined King,46.01297737770324,8749
+Darius,Blade of the Ruined King,45.240643588824526,1177
+Garen,Blade of the Ruined King,51.358488004894284,5114
+Katarina,Blade of the Ruined King,52.74417177161008,5757
+Ezreal,Blade of the Ruined King,47.6547433488127,6478
+Ahri,Morellonomicon,48.14378142864956,1412
+Yasuo,Morellonomicon,42.82828090825042,284
+Zed,Morellonomicon,45.52323769871867,8032
+Lux,Morellonomicon,44.5017921149026,512
+Jinx,Morellonomicon,49.537495053330694,4822
+Thresh,Morellonomicon,46.12487430751918,1432
+Lee Sin,Morellonomicon,49.494845313639956,4974
+Vayne,Morellonomicon,49.516517981276124,9852
+Darius,Morellonomicon,49.3483010371405,663
+Garen,Morellonomicon,46.0439250821802,9085
+Katarina,Morellonomicon,48.97670120172712,9706
+Ezreal,Morellonomicon,47.80921465485216,3898
+Ahri,Zhonya's Hourglass,55.879747045705535,9661
+Yasuo,Zhonya's Hourglass,48.269667836545665,4355
+Zed,Zhonya's Hourglass,53.36078667050288,3680
+Lux,Zhonya's Hourglass,50.62376496839141,3228
+Jinx,Zhonya's Hourglass,52.33653886794234,6700
+Thresh,Zhonya's Hourglass,54.834999690503416,4812
+Lee Sin,Zhonya's Hourglass,52.03603616929997,8648
+Vayne,Zhonya's Hourglass,49.45490603921868,378
+Darius,Zhonya's Hourglass,50.87581120919993,4465
+Garen,Zhonya's Hourglass,55.42793259403573,6889
+Katarina,Zhonya's Hourglass,52.74227213951081,6590
+Ezreal,Zhonya's Hourglass,56.71644920858446,3300
+Ahri,Black Cleaver,50.19977355700892,2365
+Yasuo,Black Cleaver,53.82093919715443,717
+Zed,Black Cleaver,58,2004
+Lux,Black Cleaver,58,8628
+Jinx,Black Cleaver,58,638
+Thresh,Black Cleaver,50.98707056345707,9247
+Lee Sin,Black Cleaver,50.50330459271817,3724
+Vayne,Black Cleaver,56.20077272442047,6967
+Darius,Black Cleaver,52.824371107787556,3561
+Garen,Black Cleaver,56.24064801366116,5717
+Katarina,Black Cleaver,52.57196635905236,6914
+Ezreal,Black Cleaver,51.12490826467841,7104
+Ahri,Warmog's Armor,53.495322910599654,6900
+Yasuo,Warmog's Armor,46.52066566481771,3107
+Zed,Warmog's Armor,50.30000857547198,9736
+Lux,Warmog's Armor,50.752965956258095,6903
+Jinx,Warmog's Armor,51.649063958504506,2310
+Thresh,Warmog's Armor,48.94340245199576,2385
+Lee Sin,Warmog's Armor,50.521127731478416,5892
+Vayne,Warmog's Armor,55.23903479531971,7783
+Darius,Warmog's Armor,50.463294463189825,2477
+Garen,Warmog's Armor,54.58963648840754,5608
+Katarina,Warmog's Armor,54.833582278095186,4312
+Ezreal,Warmog's Armor,51.737637464812686,9370
+Ahri,Thornmail,47.432818216426654,9532
+Yasuo,Thornmail,44.88672828882819,7925
+Zed,Thornmail,52.500076211785526,1805
+Lux,Thornmail,46.37552522994826,7978
+Jinx,Thornmail,44.052432479062134,9164
+Thresh,Thornmail,52.62011110424973,8180
+Lee Sin,Thornmail,50.426234457412484,9048
+Vayne,Thornmail,44.84036081501772,1087
+Darius,Thornmail,48.771519300371175,8088
+Garen,Thornmail,52.68158446714827,4906
+Katarina,Thornmail,49.12116594781112,5687
+Ezreal,Thornmail,47.37312989033331,9525
+Ahri,Kraken Slayer,56.59199987712873,9716
+Yasuo,Kraken Slayer,52.985417990033795,3908
+Zed,Kraken Slayer,52.85239318896267,7525
+Lux,Kraken Slayer,51.8855120606582,2324
+Jinx,Kraken Slayer,53.53143269255993,1264
+Thresh,Kraken Slayer,58,6182
+Lee Sin,Kraken Slayer,51.16473701214162,7733
+Vayne,Kraken Slayer,50.47042300325984,2312
+Darius,Kraken Slayer,51.02957087394818,1711
+Garen,Kraken Slayer,57.05496479881583,3952
+Katarina,Kraken Slayer,56.27718666722276,5664
+Ezreal,Kraken Slayer,58,809
+Ahri,Galeforce,48.986435773131845,8141
+Yasuo,Galeforce,49.59323743440365,1357
+Zed,Galeforce,47.54834445852295,2569
+Lux,Galeforce,48.86180923090268,2211
+Jinx,Galeforce,50.39557840691003,6323
+Thresh,Galeforce,50.059179805571134,3134
+Lee Sin,Galeforce,51.89193726842236,2438
+Vayne,Galeforce,46.774635250110244,7008
+Darius,Galeforce,45.56508452090144,1446
+Garen,Galeforce,46.490957206907936,6722
+Katarina,Galeforce,42.71249685625898,7827
+Ezreal,Galeforce,44.35436576948017,9082
+Ahri,Immortal Shieldbow,54.63124481337264,5100
+Yasuo,Immortal Shieldbow,48.37775641248843,9632
+Zed,Immortal Shieldbow,48.45892696772403,5506
+Lux,Immortal Shieldbow,46.79824122937732,5953
+Jinx,Immortal Shieldbow,48.526656807160194,4487
+Thresh,Immortal Shieldbow,53.500381967601,5445
+Lee Sin,Immortal Shieldbow,54.679547765584644,1807
+Vayne,Immortal Shieldbow,51.10143510817484,4800
+Darius,Immortal Shieldbow,49.98055093131536,1934
+Garen,Immortal Shieldbow,48.53407341391065,3210
+Katarina,Immortal Shieldbow,47.15004721370158,9552
+Ezreal,Immortal Shieldbow,50.00187491878423,6408
