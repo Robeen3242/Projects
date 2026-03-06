@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            League of Legends Build Archive
+        </title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    </head>
+  <body class="bg-dark">
+    <div class="container">
+      <div class="jumbotron mt-5">
+          <h1 class="display-4">League of Legends Build Archive</h1>
+          <hr> 
+          <form method="get" action="/">
+            <button class="button btn-primary" type="submit">Search Build</button>
+          </form>
+          {% if alert != "" %}
+            <div id="alert-message" class="alert alert-primary" role="alert">
+              {{alert}}
+            </div>
+          {% endif %}
+          <h2>Add Runes</h2>
+          <form method="POST" action="/">
+              <label for="build_name"> Name of build: </label>
+              <input type="text" name ="name">
+              <label for="champion"> Champion: </label>
+              <input type="text" name="champion"> 
+
+          <div class="dropdown">
+            <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="Path" data-toggle="dropdown" aria-expanded="false">
+              Rune Path
+            </a>
+            <div class="dropdown-menu" aria-labelledby="rune_path">
+              <a class="dropdown-item" href="precision">Precision</a>
+              <a class="dropdown-item" href="domination">Domination</a>
+              <a class="dropdown-item" href="sorcery">Sorcery</a>
+              <a class="dropdown-item" href="resolve">Resolve</a>
+              <a class="dropdown-item" href="inspiration">Inspiration</a>
+            </div>
+          </div>
+
+            <h3>Primary Keystone</h3>
+            <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="Primary Sorcery">
+              <label class="btn btn-primary active">
+                <input type="radio" name="keystone" value="Summon Aery"> Summon Aery
+              </label>
+              <label class="btn btn-primary active">
+                <input type="radio" name="keystone" value="Arcane Comet"> Arcane Comet
+              </label>
+              <label class="btn btn-primary active">
+                <input type="radio" name="keystone" value="Phase Rush"> Phase Rush
+              </label>
+            </div>
+
+            <h4> Artifact </h4>
+            <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="Artifact">
+              <label class="btn btn-primary secondary active">
+                <input type="radio" name="row_1" value="Nullifying Orb"> Nullifying Orb
+              </label>
+              <label class="btn btn-primary active">
+                <input type="radio" name="row_1" value="Manaflow Band"> Manaflow Band
+              </label>
+              <label class="btn btn-primary active">
+                <input type="radio" name="row_1" value="Nimbus Cloak"> Nimbus Cloak
+              </label>
+            </div>
+
+            <h4> Excellence </h4>
+            <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="Excellence">
+              <label class="btn btn-primary active">
+                <input type="radio" name="row_2" value="Transcendence"> Transcendence
+              </label>
+              <label class="btn btn-primary active">
+                <input type="radio" name="row_2" value="Celerity"> Celerity
+              </label>
+              <label class="btn btn-primary active">
+                <input type="radio" name="row_2" value="Absolute Focus"> Absolute Focus
+              </label>
+            </div>
+
+            <h4> Power </h4>
+            <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="Power">
+              <label class="btn btn-primary active">
+                <input type="radio" name="row_3" value="Scorch"> Scorch
+              </label>
+              <label class="btn btn-primary active">
+                <input type="radio" name="row_3" value="Waterwalking"> Waterwalking
+              </label>
+              <label class="btn btn-primary active">
+                <input type="radio" name="row_3" value="Gathering Storm"> Gathering Storm
+              </label>
+            </div>
+
+          <h2>Path for Secondary Keystone</h2>
+          <div class="accordion" id="s_runes">
+
+            
+            <div class="card bg-warning">
+              <div class="card-header" id="s_precision">
+                <h2 class="mb-0">
+                  <button class="btn btn-link btn-block text-left bg-warning text-dark text-decoration-none" type="button" data-toggle="collapse" data-target="#s_collapseOne" aria-expanded="true" aria-controls="s_collapseOne" >
+                    Precision
+                  </button>
+                </h2>
+              </div>
+              <div id="s_collapseOne" class="collapse" aria-labelledby="s_precision" data-parent="#s_runes">
+                <div class="card-body">
+                  <h4> First Rune </h4>
+                  <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="S_Heroism">
+                    <label class="btn btn-secondary active" aria-pressed="false">
+                      <input type="radio" name="second_one" value="Overheal"> Overheal
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Triumph"> Triumph
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Presence of Mind"> Presence of Mind
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Legend: Alacrity"> Legend: Alacrity
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Legend: Tenacity"> Legend: Tenacity
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Legend: Bloodline"> Legend: Bloodline
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Coup de Grace"> Coup de Grace
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Cut Down"> Cut Down
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Last Stand"> Last Stand
+                    </label>
+                  </div>
+
+                  <h4> Second Rune </h4>
+                  <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="S_Heroism">
+                    <label class="btn btn-secondary active" aria-pressed="false">
+                      <input type="radio" name="second_two" value="Overheal"> Overheal
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Triumph"> Triumph
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Presence of Mind"> Presence of Mind
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Legend: Alacrity"> Legend: Alacrity
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Legend: Tenacity"> Legend: Tenacity
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Legend: Bloodline"> Legend: Bloodline
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Coup de Grace"> Coup de Grace
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Cut Down"> Cut Down
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Last Stand"> Last Stand
+                    </label>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+            <div class="card bg-success">
+              <div class="card-header" id="s_resolve">
+                <h2 class="mb-0">
+                  <button class="btn btn-link btn-block text-left collapsed bg-success text-dark text-decoration-none" type="button" data-toggle="collapse" data-target="#s_collapseFour" aria-expanded="false" aria-controls="s_collapseFour">
+                    Resolve
+                  </button>
+                </h2>
+              </div>
+              <div id="s_collapseFour" class="collapse" aria-labelledby="s_resolve" data-parent="#s_runes">
+                <div class="card-body">
+
+                  <h4> First Rune </h4>
+                  <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="S_Strength">
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Demolish"> Demolish
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Font of Life"> Font of Life
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Shield Bash""> Shield Bash
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Conditioning"> Conditioning
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Second Wind"> Second Wind
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Bone Plating"> Bone Plating
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Overgrowth"> Overgrowth
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Revitalize"> Revitalize
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Unflinching"> Unflinching
+                    </label>
+                  </div>
+
+                  <h4> Second Rune </h4>
+                  <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="S_Strength">
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Demolish"> Demolish
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Font of Life"> Font of Life
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Shield Bash""> Shield Bash
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Conditioning"> Conditioning
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Second Wind"> Second Wind
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Bone Plating"> Bone Plating
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Overgrowth"> Overgrowth
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Revitalize"> Revitalize
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Unflinching"> Unflinching
+                    </label>
+                  </div>  
+
+
+                </div>  
+              </div>
+            </div>
+
+
+            <div class="card bg-danger">
+              <div class="card-header" id="s_domination">
+                <h2 class="mb-0">
+                  <button class="btn btn-link btn-block text-left collapsed bg-danger text-dark text-decoration-none" type="button" data-toggle="collapse" data-target="#s_collapseThree" aria-expanded="false" aria-controls="s_collapseThree">
+                    Domination
+                  </button>
+                </h2>
+              </div>
+              <div id="s_collapseThree" class="collapse" aria-labelledby="s_domination" data-parent="#s_runes">
+                <div class="card-body">
+                  <h4> First Rune </h4>
+                  <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="S_Malice">
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Cheap Shot"> Cheap Shot
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Taste of Blood"> Taste of Blood
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Sudden Impact"> Sudden Impact
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Zombie Ward"> Zombie Ward
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Ghost Poro"> Ghost Poro
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one value="Eyeball Collection"> Eyeball Collection
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Ravenous Hunter"> Ravenous Hunter
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="S_Ingenious Hunter"> Ingenious Hunter
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Relentless Hunter"> Relentless Hunter
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Ultimate Hunter"> Ultimate Hunter
+                    </label>
+                  </div>
+
+                  <h4> Second Rune </h4>
+                  <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="S_Malice">
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Cheap Shot"> Cheap Shot
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Taste of Blood"> Taste of Blood
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Sudden Impact"> Sudden Impact
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Zombie Ward"> Zombie Ward
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Ghost Poro"> Ghost Poro
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Eyeball Collection"> Eyeball Collection
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Ravenous Hunter"> Ravenous Hunter
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="S_Ingenious Hunter"> Ingenious Hunter
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Relentless Hunter"> Relentless Hunter
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Ultimate Hunter"> Ultimate Hunter
+                    </label>
+                  </div>
+                
+                </div>
+              </div>
+            </div> 
+  
+
+            <div class="card bg-info">
+              <div class="card-header" id="s_inspiration">
+                <h2 class="mb-0">
+                  <button class="btn btn-link btn-block text-left collapsed bg-info text-dark text-decoration-none" type="button" data-toggle="collapse" data-target="#s_collapseFive" aria-expanded="false" aria-controls="s_collapseFive" >
+                    Inspiration
+                  </button>
+                </h2>
+              </div>
+              <div id="s_collapseFive" class="collapse" aria-labelledby="s_inspiration" data-parent="#s_runes">
+                <div class="card-body">
+
+                  <h4> First Rune </h4>
+                  <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="S_Contraption">
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Hextech Flashtraption"> Hextech Flashtraption
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Magical Footwear"> Magical Footwear
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Perfect Timing"> Perfect Timing
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Futures Market"> Futures Market
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Minion Dematerializer"> Minion Dematerializer
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Biscuit Delivery"> Biscuit Delivery
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Cosmic Insight"> Cosmic Insight
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Approach Velocity"> Approach Velocity
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_one" value="Time Warp Tonic"> Time Warp Tonic
+                    </label>
+                  </div>
+
+                  <h4> Second Rune </h4>
+                  <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="S_Contraption">
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Hextech Flashtraption"> Hextech Flashtraption
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Magical Footwear"> Magical Footwear
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Perfect Timing"> Perfect Timing
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Futures Market"> Futures Market
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Minion Dematerializer"> Minion Dematerializer
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Biscuit Delivery"> Biscuit Delivery
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Cosmic Insight"> Cosmic Insight
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Approach Velocity"> Approach Velocity
+                    </label>
+                    <label class="btn btn-secondary active">
+                      <input type="radio" name="second_two" value="Time Warp Tonic"> Time Warp Tonic
+                    </label>
+                  </div>
+
+
+                </div>  
+              </div>
+            </div>
+
+          </div>
+            
+          <h4> Shards </h4>
+
+          <h4> Offense </h4> 
+            <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="offense">
+              <label class="btn btn-secondary active">
+                <input type="radio" name="shard_one" value="Adaptive Damage"> Adaptive Damage
+              </label>
+              <label class="btn btn-secondary active">
+                <input type="radio" name="shard_one" value="Attack Speed"> Attack Speed
+              </label>
+              <label class="btn btn-secondary active">
+                <input type="radio" name="shard_one" value="Ability Haste"> Ability Haste
+              </label>
+            </div>  
+
+            <h4> Flex </h4>
+            <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="flex">
+              <label class="btn btn-secondary active">
+                <input type="radio" name="shard_two" value="Adaptive Damage"> Adaptive Damage
+              </label>
+              <label class="btn btn-secondary active">
+                <input type="radio" name="shard_two" value="Armor"> Armor
+              </label>
+              <label class="btn btn-secondary active">
+                <input type="radio" name="shard_two" value="Magic Resistance"> Magic Resistance
+              </label>
+            </div>
+
+            <h4> Defense </h4>
+            <div class="btn-group btn-group-toggle" data-toggle="buttons" role="group" aria-label="flex">
+              <label class="btn btn-secondary active">
+                <input type="radio" name="shard_three" value="Health"> Health
+              </label>
+              <label class="btn btn-secondary active">
+                <input type="radio" name="shard_three" value="Armor"> Armor
+              </label>
+              <label class="btn btn-secondary active">
+                <input type="radio" name="shard_three" value="Magic Resistance"> Magic Resistance
+              </label>
+            </div>
+
+          <h2>Description</h2>
+              <label for="description"> Description: </label>
+              <input class="form-control form-control-lg" name="description" type="text" placeholder="Notes">
+              <input type="submit" value="Submit">
+          </form>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+  </body>
+</html>
