@@ -95,7 +95,7 @@ if __name__ == "__main__":
 
     #save the trained model
     print('Finished Training')
-    PATH = './cifar_net.pth'
+    PATH = 'Projects/Pytorch/cifar_net.pth'
     torch.save(net.state_dict(), PATH)
 
     #load the saved model
@@ -140,7 +140,7 @@ if __name__ == "__main__":
     correct_pred = {classname: 0 for classname in classes}
     total_pred = {classname: 0 for classname in classes}
 
-    # again no gradients needed
+    # no gradients needed
     with torch.no_grad():
         for data in testloader:
             images, labels = data
